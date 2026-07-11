@@ -82,4 +82,42 @@ Mais il a terriblement soif.
 
 Cette soif l'emporte sur la beauté du moment et sur l'idée d'une arrivée spectaculaire au lever du jour.
 
-La suite de l'arrivée au Machu Picchu reste à raconter.
+Il redescend donc à **Aguas Calientes**, la ville située en contrebas, où arrive normalement le train des visiteurs du Machu Picchu.
+
+Il y attend le reste du groupe, qui arrive le lendemain.
+
+## Cusco, Puno et la frontière bolivienne
+
+Le groupe rentre ensuite à **Cusco**, puis prend la direction de **Puno**, près de la frontière avec la Bolivie.
+
+Le projet est de poursuivre le voyage en Bolivie.
+
+Mais la frontière est fermée dans un contexte de coup d'État ou de forte instabilité politique.
+
+Le souvenir est certain sur la fermeture de la frontière, mais l'événement politique exact reste à identifier. Le coup d'État d'Alberto Natusch Busch, souvent cité pour 1979, a eu lieu le 1er novembre, donc après ce voyage d'été.
+
+## La rupture avec le groupe
+
+François s'embrouille avec le groupe.
+
+Il décide de partir seul et prend un **bus pour Lima**.
+
+## Le retour en France
+
+À Lima, François voyage comme passager compagnie.
+
+Il n'a donc aucune priorité et l'avion est plein.
+
+Il parvient néanmoins à voir directement le commandant de bord et lui demande s'il peut monter à bord.
+
+Le commandant lui garantit une place jusqu'à **Cayenne**, où lui-même descend.
+
+Grâce à cette intervention directe, François peut finalement poursuivre son retour vers la France.
+
+## À vérifier
+
+- Le point kilométrique exact du train.
+- L'emplacement précis des rapides.
+- Le contexte exact lié au Sentier lumineux.
+- L'événement politique ayant entraîné la fermeture de la frontière bolivienne.
+- La suite exacte du trajet entre Cayenne et la France.
