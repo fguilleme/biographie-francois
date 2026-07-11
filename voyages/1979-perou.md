@@ -1,11 +1,16 @@
 # 1979 — Pérou
 
-> **Date :** à confirmer, probablement 1979  
+> **Date :** été 1979  
+> **Âge :** dix-huit ans moins deux mois  
 > **Durée :** environ trois semaines  
 > **Cadre :** voyage de groupe organisé pour des jeunes  
 > **Statut :** brouillon
 
 François part au Pérou avec un groupe de jeunes de son âge.
+
+Il parcourt le **Camino del Inca**, le sentier menant au Machu Picchu.
+
+Il effectue le trek en deux jours, ce qui est rapide.
 
 Il gravit un sommet d'environ 4 000 mètres.
 
@@ -47,4 +52,34 @@ Le groupe dort de l'autre côté.
 
 Un garçon affirme sans cesse entendre des bruits et craint des voleurs ou des assassins.
 
-François associe aujourd'hui cette peur au contexte du Sentier lumineux, mais l'année exacte du voyage et le contexte historique devront être vérifiés avant publication.
+François associe aujourd'hui cette peur au contexte du Sentier lumineux, mais le contexte historique devra être vérifié avant publication.
+
+## Le chemin qui ne permettait plus de reculer
+
+À la fin du trek, il ne reste plus qu'environ deux heures de marche avant le Machu Picchu.
+
+De nombreux marcheurs campent au dernier arrêt. François pourrait s'installer avec eux et attendre le lendemain matin.
+
+Mais il est bien lancé et décide de continuer directement.
+
+Il n'a plus d'eau.
+
+Le chemin qu'il emprunte se révèle beaucoup plus dangereux qu'il ne l'imaginait.
+
+Il se souvient en particulier d'un passage large d'à peine trente centimètres, avec la paroi à gauche et le précipice à droite.
+
+Une fois engagé, il ne se voit pas rebrousser chemin.
+
+Il continue.
+
+> Finalement, j'ai avancé. Et je suis encore là.
+
+## Le Machu Picchu et la soif
+
+Lorsqu'il arrive près du Machu Picchu, François aurait pu s'installer sur place et attendre l'aube pour faire son entrée dans les premières lumières du matin.
+
+Mais il a terriblement soif.
+
+Cette soif l'emporte sur la beauté du moment et sur l'idée d'une arrivée spectaculaire au lever du jour.
+
+La suite de l'arrivée au Machu Picchu reste à raconter.
