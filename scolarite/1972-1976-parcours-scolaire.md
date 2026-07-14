@@ -8,7 +8,7 @@
 
 En 1972, François entre en sixième.
 
-Il devient interne à Saint-Charles, un ancien séminaire administré par des prêtres. Son frère y est également passé.
+Il devient interne à Saint-Clément, un ancien séminaire administré par des prêtres. Son frère y est également passé.
 
 L'internat n'a rien d'une maison de correction. Il est abordable, plutôt bienveillant, et François en garde un souvenir globalement heureux.
 
@@ -20,7 +20,7 @@ Après la sixième et la cinquième, François se lasse néanmoins de la pension
 
 ## La quatrième
 
-Il rejoint Saint-Louis, à quelques kilomètres de chez lui, qu'il rallie à vélo.
+Il rejoint Saint-Louis, à coté de saint clément, à quelques kilomètres de chez lui, qu'il rallie à vélo.
 
 Cette quatrième marque une rupture.
 

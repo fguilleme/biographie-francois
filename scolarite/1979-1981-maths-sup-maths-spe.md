@@ -12,7 +12,7 @@ Cette maths sup puis maths spé confirme son goût ancien pour les mathématique
 
 ## Professeurs et apprentissages
 
-Un jeune professeur de physique arrive en blouson de moto jaune et casque à la main ; les élèves le prennent d'abord pour l'un des leurs. Son nom est peut-être **Jean-Luc Abeille**, mais la transcription et le prénom doivent être vérifiés. François le décrit comme très compétent et sympathique, et se souvient être allé bricoler chez lui — le lieu exact est mal transcrit.
+Un jeune professeur de physique arrive en blouson de moto jaune et casque à la main ; les élèves le prennent d'abord pour l'un des leurs. Son nom est peut-être **Jean-Michel Ameil**, mais la transcription et le prénom doivent être vérifiés. François le décrit comme très compétent et sympathique, et se souvient être allé bricoler chez lui — le lieu exact est mal transcrit.
 
 À un moment, la classe reste environ trois semaines sans professeur de mathématiques. Le remplaçant finalement trouvé est difficile, mais il transmet à François un principe durable :
 
