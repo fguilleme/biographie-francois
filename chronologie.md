@@ -25,6 +25,13 @@
 - **Pendant le service** — Mission d'environ six semaines à Mururoa, au moment où un cyclone venait de frapper Tahiti ; date exacte à établir.
 - **Juillet 1983** — Fin du service militaire et achat à crédit d'une Volkswagen Scirocco neuve, gris métallisé.
 - **1983, environ trois mois** — Poste lié à l'usine de retraitement de La Hague, logement à Cherbourg, puis démission.
+- **Fin 1983** — Retour en région parisienne après La Hague.
+- **Fin 1983 / début 1984** — Formation informatique orientée gestion, rémunérée à environ 80 % de l'ancien salaire ; dates et organisme à confirmer.
+- **Janvier 1984** — Grave accident de voiture avec la Volkswagen Scirocco ; date précise à confirmer.
+- **1984** — Activités ponctuelles pour CBS autour du Coleco Adam.
+- **1984** — Stage de six semaines chez LINCS, puis CDI.
+- **1984** — Départ de LINCS après environ cinq mois.
+- **1984 (année probable, à confirmer)** — Voyage par New York, La Nouvelle-Orléans, Laredo, Mexico, Puebla, Puerto Ángel, Oaxaca, Mérida, Chichén Itzá et Palenque ; passage par El Paso probable mais non confirmé.
 
 ## Premiers voyages
 

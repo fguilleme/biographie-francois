@@ -25,6 +25,20 @@
 - Identifier l'employeur et l'intitulé exact du poste à La Hague en 1983.
 - Retrouver, si possible, le nom du foyer de jeunes situé près du logement de Cherbourg.
 
+## 1983–1984 — Formation, accident, CBS, LINCS et voyage USA–Mexique
+
+- Retrouver la date exacte du début de la formation informatique.
+- Identifier le nom de l'organisme de formation.
+- Préciser la date de l'accident de janvier 1984 et, si possible, le modèle exact de la Ford impliquée.
+- Établir les dates exactes des activités CBS et de la démonstration pour le Coleco Adam.
+- Identifier le concurrent ayant sous-traité la démonstration à François.
+- Retrouver les dates exactes du stage de six semaines et du CDI chez LINCS.
+- Confirmer l'année du voyage USA–Mexique, probablement 1984.
+- Confirmer ou infirmer le passage par El Paso.
+- Retrouver le nom complet de Claude.
+- Dater le tremblement de terre ressenti à Puebla.
+- Retrouver le nom de la guest house de Puerto Ángel.
+
 ## Voyages supplémentaires
 
 - Confirmer le voyage de décembre 1978 à Istanbul : dates, durée et escale du Golfe qui exigeait un visa.

@@ -16,6 +16,14 @@
 - **Nature :** transcription de travail conservée dans `transcript.txt`.
 - **Usage :** témoin historique de la constitution initiale du dépôt ; l'export JSON complet est désormais la référence plus fiable.
 
+### SRC-SESSION-2026-07-14
+
+- **Nature :** transcription structurée d'une conversation avec François Guillemé le 14 juillet 2026.
+- **Transcription archivée :** [séance du 14 juillet 2026](archive/sessions/2026/2026-07-14-transcript.md).
+- **Bundle autonome :** [archive de séance](bundle-biographie-2026-07-14/).
+- **Périmètre :** retour en région parisienne, formation informatique, accident de janvier 1984, CBS et Coleco Adam, LINCS, puis voyage aux États-Unis et au Mexique.
+- **Qualité :** source directe fondée sur le souvenir ; les dates, noms et étapes signalés comme probables ou à confirmer restent incertains.
+
 ## Règle de citation interne
 
 Les nouveaux dossiers peuvent citer la conversation par numéro de message. Lorsqu'une information est vérifiée par une archive extérieure (magazine, logiciel, document administratif, photo), cette source doit être ajoutée ici séparément : le souvenir et sa preuve ne sont pas la même source.

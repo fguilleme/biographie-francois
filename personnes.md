@@ -20,6 +20,7 @@
 - **Ismaël** — commerçant musulman de Saint-Denis de La Réunion, vendeur de samoussas, qui héberge François à son arrivée en 1977.
 - **Joseph** — Créole de Sainte-Clotilde rencontré par l'intermédiaire d'Ismaël ; sa famille héberge ensuite François.
 - **Ogilvye / Ogilviye (?)** — chauffeur de taxi seychellois qui accueille François ; orthographe encore incertaine.
+- **[Claude (nom complet inconnu)](connaissances/personnes/claude.md)** — Haïtien étudiant en médecine à Puebla, rencontré dans un bus entre Laredo et Mexico ; son influence sur le choix ultérieur d'études de médecine est probable.
 
 ## Informatique et vie professionnelle
 
