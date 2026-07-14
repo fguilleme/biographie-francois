@@ -7,6 +7,27 @@
 - Confirmer si la troisième à l'École Centrale d'Électronique correspond bien à 1974-1975.
 - Retrouver le nom de l'établissement religieux de Saint-Brieuc.
 - Retrouver le terme exact désignant la partie de l'internat où se trouvaient les chambres à deux.
+- Identifier le lycée de terminale, la série exacte du bac et, si possible, retrouver le relevé de notes.
+- Identifier l'établissement de maths sup/maths spé transcrit « l'EST ».
+- Confirmer les années exactes de prépa et le nom du professeur de physique, peut-être Jean-Luc Abeille.
+
+## Cadarache et SMSR
+
+- Confirmer l'intitulé officiel du BTS de radioprotection et ses dates.
+- Développer exactement le sigle SMSR et préciser son implantation.
+- Clarifier l'ordre des événements : recrutement à l'école, stage de fin d'études, puis affectation militaire.
+- Confirmer la date de la mission de six semaines à Mururoa et identifier le cyclone qui venait de frapper Tahiti.
+- Reprendre oralement, lentement, le principe du détecteur de plutonium 239 et le résultat obtenu.
+
+## Débuts professionnels
+
+- Confirmer si le travail de ramoneur date de l'été 1980.
+- Identifier l'employeur et l'intitulé exact du poste à La Hague en 1983.
+- Retrouver, si possible, le nom du foyer de jeunes situé près du logement de Cherbourg.
+
+## Voyages supplémentaires
+
+- Confirmer le voyage de décembre 1978 à Istanbul : dates, durée et escale du Golfe qui exigeait un visa.
 
 ## Bretagne
 

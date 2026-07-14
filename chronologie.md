@@ -9,6 +9,22 @@
 - En classe préparatoire, accès aux **Tandy TRS-80** du lycée, parfois en entrant par la fenêtre du local informatique.
 - Achat d’un ordinateur **DAI** avec le salaire de deux mois de travail d’été comme ramoneur.
 - Premiers programmes en assembleur sur le DAI, en apprenant directement avec la documentation Intel du 8080.
+- **Été 1978** — Nouvelle-Calédonie, une semaine à Wallis, puis séjour à Melbourne en Australie.
+- **Décembre 1978** — Projet de voyage en Thaïlande abandonné à cause d'un problème de visa lié au changement d'escale ; séjour d'environ cinq jours à Istanbul à la place.
+- **1978–1979** — Terminale technique. François travaille peu mais obtient au baccalauréat 17 en mathématiques, 16 en gammes d'usinage et 12 en mécanique, selon son souvenir.
+- **Été 1979** — Pérou, chemin de l'Inca jusqu'au Machu Picchu, puis retour anticipé en France.
+- **19 septembre 1979** — Permis de conduire, trois jours après ses dix-huit ans.
+
+## 1979–1983 — Études, nucléaire et service militaire
+
+- **1979–1981 environ** — Mathématiques supérieures puis mathématiques spéciales dans une filière destinée aux titulaires d'un baccalauréat technique ; établissement transcrit oralement comme « l'EST », à identifier.
+- **1980 environ** — Travail d'été comme ramoneur ; le salaire de deux mois permettra ensuite l'achat d'un ordinateur DAI.
+- **1981–1982 environ** — Formation à Cadarache : BTS de contrôle des rayonnements ionisants et applications techniques de protection, intitulé exact à vérifier.
+- **1982** — Stage de fin d'études au SMSR, puis incorporation à Creil en août pour environ six semaines de classes.
+- **1982–juillet 1983** — Service militaire au SMSR dans un environnement essentiellement civil. Travail de laboratoire sur la détection indirecte du plutonium 239.
+- **Pendant le service** — Mission d'environ six semaines à Mururoa, au moment où un cyclone venait de frapper Tahiti ; date exacte à établir.
+- **Juillet 1983** — Fin du service militaire et achat à crédit d'une Volkswagen Scirocco neuve, gris métallisé.
+- **1983, environ trois mois** — Poste lié à l'usine de retraitement de La Hague, logement à Cherbourg, puis démission.
 
 ## Premiers voyages
 
@@ -32,3 +48,5 @@
 - Israël.
 - Voyages en Asie, Afrique et Amérique latine.
 - Parcours professionnel ultérieur et Parrot.
+- Identifier précisément l'établissement de prépa transcrit « l'EST ».
+- Stabiliser la chronologie Cadarache–stage SMSR–service militaire–Mururoa.
