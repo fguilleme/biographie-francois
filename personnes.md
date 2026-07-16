@@ -21,6 +21,8 @@
 - **Joseph** — Créole de Sainte-Clotilde rencontré par l'intermédiaire d'Ismaël ; sa famille héberge ensuite François.
 - **Ogilvye / Ogilviye (?)** — chauffeur de taxi seychellois qui accueille François ; orthographe encore incertaine.
 - **[Claude (nom complet inconnu)](connaissances/personnes/claude.md)** — Haïtien étudiant en médecine à Puebla, rencontré dans un bus entre Laredo et Mexico ; son influence sur le choix ultérieur d'études de médecine est probable.
+- **[Sylvette](connaissances/personnes/sylvette.md)** — Française rencontrée à San Pedro La Laguna ; accompagne François pendant la remontée vers les États-Unis, dans une relation explicitement non romantique.
+- **[Jeune Guatémaltèque polyglotte](connaissances/personnes/jeune-guatemalteque-polyglotte.md)** — jeune homme d'environ vingt ans, parlant cinq ou six langues et apprenant le japonais ; nom inconnu.
 
 ## Informatique et vie professionnelle
 

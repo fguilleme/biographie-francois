@@ -33,6 +33,18 @@
 - **1984** — Départ de LINCS après environ cinq mois.
 - **1984 (année probable, à confirmer)** — Voyage par New York, La Nouvelle-Orléans, Laredo, Mexico, Puebla, Puerto Ángel, Oaxaca, Mérida, Chichén Itzá et Palenque ; passage par El Paso probable mais non confirmé.
 
+## 1984 — Guatemala et remontée vers les États-Unis
+
+- Entrée au Guatemala depuis la côte pacifique du Mexique, par un poste-frontière non identifié.
+- Arrêt à San Francisco El Alto, puis arrivée au lac Atitlán.
+- Passage bref à Panajachel, puis séjour d'environ trois semaines à San Pedro La Laguna.
+- Remontée vers le Mexique, puis vers les États-Unis.
+- Train vers le nord après une étape probablement située à Aguascalientes ; nom à confirmer.
+- Passage de la frontière américaine, à une gare qui reste à identifier.
+- Reprise du stop à El Paso, passage exact à vérifier, puis traversée de l'Arizona et du Nouveau-Mexique avant l'arrivée à San Diego.
+- La durée depuis le Guatemala jusqu'à la frontière américaine est incertaine, probablement inférieure à une semaine selon le souvenir de François.
+- Récit détaillé : [Guatemala et remontée vers les États-Unis](voyages/1984-guatemala-remontee-etats-unis.md).
+
 ## Premiers voyages
 
 - **À 14 ans et 10 mois** — Voyage seul en auto-stop jusqu’en Bretagne pour rejoindre un ami et sa famille. Trois semaines sans donner de nouvelles ; la mère de François demande finalement à la poste du village de vérifier qu’il va bien.

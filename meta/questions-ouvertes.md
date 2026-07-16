@@ -39,6 +39,17 @@
 - Dater le tremblement de terre ressenti à Puebla.
 - Retrouver le nom de la guest house de Puerto Ángel.
 
+## 1984 — Guatemala et remontée vers les États-Unis
+
+- Identifier le poste frontière Guatemala/Mexique.
+- Confirmer Aguascalientes comme gare ou étape ferroviaire.
+- Préciser la durée du Guatemala à la frontière des États-Unis.
+- Retrouver le nom du jeune Guatémaltèque polyglotte.
+- Préciser, si possible, le nom de la foire ou de l'hébergement à San Pedro La Laguna.
+- Vérifier le passage exact par El Paso.
+- Préciser l'itinéraire en Arizona, au Nouveau-Mexique et en Californie.
+- Préciser la gare frontière d'arrivée aux États-Unis.
+
 ## Voyages supplémentaires
 
 - Confirmer le voyage de décembre 1978 à Istanbul : dates, durée et escale du Golfe qui exigeait un visa.

@@ -22,8 +22,8 @@ Le projet distingue trois types de contenu :
 - `personnes.md` — index des personnes citées ;
 - `sources.md` — registre des témoignages et archives ;
 - `meta/questions-ouvertes.md` — incertitudes à soumettre à François ;
-- `archive/` — transcriptions et exports bruts, conservés sans réécriture.
-- `bundle-biographie-2026-07-14/` — archive autonome de la séance du 14 juillet 2026, conservée intacte.
+- `bundles/archive/` — transcriptions et exports bruts, conservés sans réécriture.
+- `bundles/bundle-biographie-2026-07-14/` — archive autonome de la séance du 14 juillet 2026, conservée intacte.
 
 ## Règles de classement
 
@@ -41,4 +41,8 @@ Ce dépôt est un travail en cours. Les textes seront corrigés et enrichis au f
 - [Stage et CDI chez LINCS](professionnel/1984-lincs.md)
 - [Accident de la Scirocco](sante/1984-accident-scirocco.md)
 - [Voyage aux États-Unis et au Mexique](voyages/1984-etats-unis-mexique.md)
-- [Transcription de la séance du 14 juillet 2026](archive/sessions/2026/2026-07-14-transcript.md)
+- [Guatemala, lac Atitlán et remontée vers les États-Unis](voyages/1984-guatemala-remontee-etats-unis.md)
+- [Sylvette](connaissances/personnes/sylvette.md)
+- [San Pedro La Laguna](connaissances/lieux/san-pedro-la-laguna.md)
+- [Transcription de la séance du 14 juillet 2026](bundles/archive/sessions/2026/2026-07-14-transcript.md)
+- [Transcription de la séance du 15 juillet 2026](bundles/archive/sessions/2026/2026-07-15-transcript.md)
