@@ -1,0 +1,48 @@
+name: Publier la biographie
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'build/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publication-biographie
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer le générateur PDF
+        run: python -m pip install --disable-pip-version-check reportlab
+
+      - name: Générer la publication
+        run: python tools/publish.py
+
+      - name: Committer les artefacts régénérés
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add build/
+          if git diff --cached --quiet; then
+            echo "Aucune modification à publier."
+          else
+            git commit -m "build: publier l'édition automatique [skip ci]"
+            git push
+          fi
