@@ -2,14 +2,17 @@
 
 ## Chronologie scolaire
 
-- Sixième en 1972 : confirmé.
-- Vérifier les années exactes de cinquième, quatrième et troisième.
-- Confirmer si la troisième à l'École Centrale d'Électronique correspond bien à 1974-1975.
-- Retrouver le nom de l'établissement religieux de Saint-Brieuc.
-- Retrouver le terme exact désignant la partie de l'internat où se trouvaient les chambres à deux.
-- Identifier le lycée de terminale, la série exacte du bac et, si possible, retrouver le relevé de notes.
+Les années de sixième à terminale, le Lycée de Montgeron et le bac F1 sont désormais établis dans [la chronologie scolaire de référence](chronologie-scolaire-reference.md).
+
+Restent à préciser :
+
+- Localiser précisément le collège Saint-Louis et le pensionnat Saint-Clément.
+- Confirmer par une source documentaire que l'établissement catholique de seconde à Saint-Brieuc était **Saint-Charles – La Providence**.
+- Retrouver le terme exact désignant l'annexe du séminaire où se trouvaient les chambres à deux.
 - Identifier l'établissement de maths sup/maths spé transcrit « l'EST ».
-- Confirmer les années exactes de prépa et le nom du professeur de physique, peut-être Jean-Luc Abeille.
+- Confirmer formellement les années de prépa, probablement 1979–1980 puis 1980–1981.
+- Retrouver le nom exact du professeur de physique de prépa, peut-être Jean-Michel Ameil selon une transcription encore incertaine.
+- Retrouver un relevé de notes du baccalauréat uniquement s'il réapparaît un jour ; François indique ne pas l'avoir actuellement.
 
 ## Cadarache et SMSR
 
