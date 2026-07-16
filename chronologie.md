@@ -4,6 +4,12 @@
 
 ## Années 1970
 
+- **1972–1973** — Sixième au collège Saint-Louis ; pensionnaire à Saint-Clément, situé à environ cent mètres du collège. Assez bon élève.
+- **1973–1974** — Cinquième au collège Saint-Louis ; toujours pensionnaire à Saint-Clément. Assez bon élève.
+- **1974–1975** — Quatrième au collège Saint-Louis ; François n'est plus pensionnaire et vit chez ses parents. Mauvaise année scolaire.
+- **1975–1976** — Troisième à l'École Centrale d'Électronique, rue de la Lune à Paris. Assez bon élève, motivé par l'électronique.
+- **1976–1977** — Seconde dans un établissement catholique de Saint-Brieuc, probablement Saint-Charles – La Providence ; internat dans une annexe du séminaire située de l'autre côté de la rue. François reste volontairement juste à la moyenne.
+- **1977–1978** — Première F1 au Lycée de Montgeron, près du domicile familial.
 - **Vers 1978** — Premiers programmes sur une calculatrice **TI-57**, limitée à 49 instructions.
 - Passage ultérieur à une calculatrice Hewlett-Packard programmable, modèle à confirmer.
 - En classe préparatoire, accès aux **Tandy TRS-80** du lycée, parfois en entrant par la fenêtre du local informatique.
@@ -11,13 +17,14 @@
 - Premiers programmes en assembleur sur le DAI, en apprenant directement avec la documentation Intel du 8080.
 - **Été 1978** — Nouvelle-Calédonie, une semaine à Wallis, puis séjour à Melbourne en Australie.
 - **Décembre 1978** — Projet de voyage en Thaïlande abandonné à cause d'un problème de visa lié au changement d'escale ; séjour d'environ cinq jours à Istanbul à la place.
-- **1978–1979** — Terminale technique. François travaille peu mais obtient au baccalauréat 17 en mathématiques, 16 en gammes d'usinage et 12 en mécanique, selon son souvenir.
+- **1978–1979** — Terminale F1, construction mécanique, au Lycée de Montgeron. François travaille très peu, pense pouvoir rater le bac et envisage alors de s'engager dans la Marine. Il obtient néanmoins, selon son souvenir, 17 en mathématiques, 16 en gammes d'usinage et 12 en mécanique.
+- À l'épreuve de gammes d'usinage, François termine très rapidement et doit attendre les trente minutes réglementaires avant de sortir. Il rapproche cette matière de la programmation : ordonner correctement une suite d'étapes.
 - **Été 1979** — Pérou, chemin de l'Inca jusqu'au Machu Picchu, puis retour anticipé en France.
 - **19 septembre 1979** — Permis de conduire, trois jours après ses dix-huit ans.
 
 ## 1979–1983 — Études, nucléaire et service militaire
 
-- **1979–1981 environ** — Mathématiques supérieures puis mathématiques spéciales dans une filière destinée aux titulaires d'un baccalauréat technique ; établissement transcrit oralement comme « l'EST », à identifier.
+- **1979–1981 environ** — Mathématiques supérieures puis mathématiques spéciales dans une filière destinée aux titulaires d'un baccalauréat technique ; établissement transcrit oralement comme « l'EST », à identifier. François est un bon élève, dans le peloton de tête en mathématiques et en physique.
 - **1980 environ** — Travail d'été comme ramoneur ; le salaire de deux mois permettra ensuite l'achat d'un ordinateur DAI.
 - **1981–1982 environ** — Formation à Cadarache : BTS de contrôle des rayonnements ionisants et applications techniques de protection, intitulé exact à vérifier.
 - **1982** — Stage de fin d'études au SMSR, puis incorporation à Creil en août pour environ six semaines de classes.
@@ -69,3 +76,7 @@
 - Parcours professionnel ultérieur et Parrot.
 - Identifier précisément l'établissement de prépa transcrit « l'EST ».
 - Stabiliser la chronologie Cadarache–stage SMSR–service militaire–Mururoa.
+
+## Référence scolaire
+
+- [Chronologie scolaire de référence](meta/chronologie-scolaire-reference.md)
