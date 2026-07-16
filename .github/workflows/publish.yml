@@ -32,17 +32,39 @@ jobs:
       - name: Installer le générateur PDF
         run: python -m pip install --disable-pip-version-check reportlab
 
-      - name: Générer la publication
-        run: python tools/publish.py
-
-      - name: Committer les artefacts régénérés
+      - name: Générer et publier avec resynchronisation
+        shell: bash
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add build/
-          if git diff --cached --quiet; then
-            echo "Aucune modification à publier."
-          else
+
+          for attempt in 1 2 3; do
+            echo "Tentative ${attempt}/3"
+
+            # Repartir exactement du dernier master distant afin d'éviter
+            # de publier des artefacts construits depuis une version périmée.
+            git fetch origin master
+            git reset --hard origin/master
+
+            python tools/publish.py
+            git add build/
+
+            if git diff --cached --quiet; then
+              echo "Aucune modification à publier."
+              exit 0
+            fi
+
             git commit -m "build: publier l'édition automatique [skip ci]"
-            git push
-          fi
+
+            if git push origin HEAD:master; then
+              echo "Publication poussée avec succès."
+              exit 0
+            fi
+
+            echo "Le dépôt a changé pendant la publication ; nouvelle tentative."
+            sleep 2
+          done
+
+          echo "Échec après trois tentatives de resynchronisation."
+          exit 1
