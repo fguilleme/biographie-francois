@@ -1,30 +1,26 @@
-# 1972–1976 — Pensionnat, décrochage et autonomie
+# 1972–1977 — Pensionnat, décrochage et autonomie
 
 > **Statut :** brouillon biographique  
 > **Sources :** souvenirs de François  
-> **Certitude :** dates partiellement à vérifier
+> **Certitude :** chronologie scolaire largement confirmée ; nom de l'établissement de seconde encore à confirmer
 
-## Saint-Charles
+## Sixième et cinquième : Saint-Louis et Saint-Clément
 
-En 1972, François entre en sixième.
+En 1972, François entre en sixième. Il suit les cours au **collège Saint-Louis** et loge au **pensionnat Saint-Clément**, situé à environ cent mètres du collège.
 
-Il devient interne à Saint-Clément, un ancien séminaire administré par des prêtres. Son frère y est également passé.
-
-L'internat n'a rien d'une maison de correction. Il est abordable, plutôt bienveillant, et François en garde un souvenir globalement heureux.
+Il reste pensionnaire à Saint-Clément pendant la sixième et la cinquième. L'internat n'a rien d'une maison de correction. Il est abordable, plutôt bienveillant, et François en garde un souvenir globalement heureux.
 
 Son père, passionné de radio et d'électronique, se lie avec certains prêtres. Il vient le soir bricoler avec eux. Ils pratiquent notamment la Citizen Band, encore marginale à cette époque.
 
 La cabine de cinéma est un lieu à part. On y projette de vieux films en noir et blanc.
 
-Après la sixième et la cinquième, François se lasse néanmoins de la pension et souhaite devenir demi-pensionnaire.
+François est alors un élève plutôt bon.
 
 ## La quatrième
 
-Il rejoint Saint-Louis, à coté de saint clément, à quelques kilomètres de chez lui, qu'il rallie à vélo.
+En **1974–1975**, François reste au collège Saint-Louis mais n'est plus pensionnaire à Saint-Clément. Il vit chez ses parents.
 
-Cette quatrième marque une rupture.
-
-Jusque-là, il a de bons résultats. Cette année-là, il décroche complètement et accumule les mauvaises notes.
+Cette quatrième marque une rupture. Jusque-là, il avait de bons résultats. Cette année-là, il décroche complètement et accumule les mauvaises notes.
 
 Ce n'est pas un rejet de l'école. François dit avoir toujours aimé apprendre, même lorsque certains cours ou certains professeurs l'ennuyaient.
 
@@ -32,13 +28,11 @@ Avec le recul, il se demande s'il s'agissait d'une crise d'adolescence. Il n'en 
 
 L'établissement recommande un redoublement. Ni lui ni ses parents ne l'acceptent.
 
-## Rue de la Lune
+## La troisième rue de la Lune
 
-La famille cherche donc un établissement capable de l'accepter en troisième.
+Pour l'année **1975–1976**, François rejoint l'**École Centrale d'Électronique**, rue de la Lune, dans le quartier des Grands Boulevards à Paris.
 
-François rejoint l'École Centrale d'Électronique, rue de la Lune, dans le quartier des Grands Boulevards.
-
-L'école commence alors à développer son cursus d'ingénieurs. François, lui, n'y vient que pour faire sa troisième.
+L'école commence alors à développer son cursus d'ingénieurs. François, lui, n'y vient que pour faire sa troisième. Il vit chez ses parents et se rend chaque jour à Paris.
 
 Le décor est radicalement différent. Plusieurs élèves ont deux ou trois ans de plus que lui. Le quartier est animé, parfois trouble. Les cinémas pornographiques sont nombreux. François fréquente des garçons qu'il juge aujourd'hui peu recommandables.
 
@@ -48,17 +42,29 @@ Rue de la Lune est aussi l'adresse où son père avait vécu adolescent, dans un
 
 Il se rappelle surtout d'un professeur d'anglais. Le cours comptait moins que les discussions. Il ne se souvient plus des sujets, mais il garde l'impression d'échanges passionnants et d'une classe réellement motivée.
 
-## Saint-Brieuc
+Cette année-là, François redevient un assez bon élève. L'électronique l'intéresse et le motive.
+
+## La seconde à Saint-Brieuc
 
 L'école privée parisienne coûte trop cher à la famille.
 
-Après son voyage en Bretagne, François imagine alors une solution : faire sa seconde en Bretagne.
+Pour l'année **1976–1977**, François fait sa seconde dans un grand établissement catholique de Saint-Brieuc, probablement **Saint-Charles – La Providence**. Le nom « La Providence » lui dit quelque chose, mais l'identification reste à confirmer par une source documentaire.
 
-Il est admis dans un grand établissement religieux de Saint-Brieuc, avec internat. Le nom reste à retrouver.
+L'établissement possède un internat. François loge dans une annexe du séminaire située de l'autre côté de la rue.
 
-Les deux premiers jours, il dort dans un grand dortoir moderne. Puis il obtient une chambre à deux dans une partie liée à la communauté religieuse.
+Les deux premiers jours, il dort dans un grand dortoir moderne. Puis il obtient une chambre à deux dans cette partie liée à la communauté religieuse.
 
 L'établissement accueille énormément d'élèves, probablement plusieurs milliers, notamment issus du monde agricole régional.
+
+Sur le plan scolaire, François reste juste à la moyenne, mais volontairement. En fin d'année, le professeur principal lui fait remarquer :
+
+> « Guillemé, vous faites juste assez pour passer. »
+
+François répond :
+
+> « Évidemment ! »
+
+Il ne voyait pas l'intérêt d'en faire davantage tant que le niveau nécessaire pour passer était atteint.
 
 ## Les week-ends à l'auberge de jeunesse
 
@@ -87,3 +93,7 @@ Lorsqu'il se décide enfin, la femme présente lui explique que le patron est d�
 François résume ainsi cette timidité :
 
 > Ce n'était pas le premier pas qui me gênait, c'était le dernier.
+
+## Référence
+
+- [Chronologie scolaire de référence](../meta/chronologie-scolaire-reference.md)
