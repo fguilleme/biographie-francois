@@ -1,14 +1,16 @@
 # 1979–1981 environ — Mathématiques supérieures et spéciales
 
 > **Statut :** brouillon biographique issu d'une transcription vocale  
-> **Source :** conversation « Biographie », messages 557 à 799  
+> **Source :** conversation « Biographie », messages 557 à 799, complétée par les corrections ultérieures de François  
 > **Certitude :** séquence solide ; établissement, années exactes et plusieurs noms à confirmer
 
-Après le baccalauréat, François est admis dans une classe préparatoire scientifique adaptée aux titulaires d'un baccalauréat technique. La transcription donne le nom de l'établissement sous la forme « l'EST », sans permettre de l'identifier avec certitude.
+Après le baccalauréat F1, François est admis dans une classe préparatoire scientifique adaptée aux titulaires d'un baccalauréat technique. La transcription donne le nom de l'établissement sous la forme « l'EST », sans permettre de l'identifier avec certitude.
 
 Il tente d'abord de passer le permis en accéléré dans un centre près de Rouen — lieu transcrit « Mollery » — mais échoue de peu. Il obtient finalement son permis le **19 septembre 1979**, trois jours après ses dix-huit ans, et rejoint le lycée le 21 septembre, environ une semaine après la rentrée.
 
-Cette maths sup puis maths spé confirme son goût ancien pour les mathématiques. Sa sœur lui avait déjà expliqué, lorsqu'il était en première ou en seconde, des notions abordées normalement en terminale, notamment les intégrales. Aujourd'hui encore, il regarde volontiers des chaînes consacrées aux mathématiques et apprécie particulièrement la démonstration et la logique de cette discipline.
+Cette maths sup puis maths spé confirme son goût ancien pour les mathématiques. François est un **bon élève** et se situe dans le **peloton de tête en mathématiques et en physique**.
+
+Sa sœur lui avait déjà expliqué, lorsqu'il était en première ou en seconde, des notions abordées normalement en terminale, notamment les intégrales. Aujourd'hui encore, il regarde volontiers des chaînes consacrées aux mathématiques et apprécie particulièrement la démonstration et la logique de cette discipline.
 
 ## Professeurs et apprentissages
 
@@ -32,10 +34,14 @@ François se souvient aussi d'un camarade moustachu, motard, qui devait habiter 
 
 Il passe plusieurs grands concours — Polytechnique, Centrale, Mines — mais les échoue. Avec le recul, il considère toutefois que les deux années lui ont donné un socle scientifique essentiel. Il aurait aimé intégrer Supaéro ou Centrale, sans vivre leur absence comme un échec définitif.
 
+## Référence
+
+- [Chronologie scolaire de référence](../meta/chronologie-scolaire-reference.md)
+
 ## À vérifier
 
 - Nom complet et ville de l'établissement transcrit « l'EST ».
-- Années scolaires exactes de maths sup et maths spé.
+- Années scolaires exactes de maths sup et maths spé, probablement 1979–1980 et 1980–1981.
 - Lieu du stage accéléré du permis, près de Rouen.
 - Nom complet du professeur de physique et lieu où François allait bricoler.
 - Identité et lieu de résidence du camarade motard.
