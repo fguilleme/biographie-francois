@@ -8,22 +8,48 @@ Le projet distingue trois types de contenu :
 - **Fait vérifié** : information recoupée par une source extérieure ;
 - **À confirmer** : date, nom ou détail encore incertain.
 
-## Organisation prévue
+## Commencer ici
 
-- `chronologie.md` — repères généraux et liens vers les dossiers ;
-- `informatique/` — TI-57, DAI, Oric, Djinntel, Atari ST, Parrot ;
-- `voyages/` — Bretagne, océan Indien, Afrique du Sud, Israël et autres voyages ;
-- `scolarite/` — collège, lycée, baccalauréat et classes préparatoires ;
-- `formation/` — formations spécialisées, notamment la radioprotection ;
-- `militaire/` — service militaire et SMSR ;
-- `professionnel/` — emplois et carrière ;
-- `sante/` — accidents, santé et parcours médical ;
-- `connaissances/` — fiches de référence sur les personnes, organisations et lieux ;
-- `personnes.md` — index des personnes citées ;
-- `sources.md` — registre des témoignages et archives ;
-- `meta/questions-ouvertes.md` — incertitudes à soumettre à François ;
-- `bundles/archive/` — transcriptions et exports bruts, conservés sans réécriture.
-- `bundles/bundle-biographie-2026-07-14/` — archive autonome de la séance du 14 juillet 2026, conservée intacte.
+- [Chronologie générale](chronologie.md)
+- [Structure canonique du dépôt](meta/structure-depot.md)
+- [Index des personnes](personnes.md)
+- [Registre des sources](sources.md)
+- [Questions ouvertes](meta/questions-ouvertes.md)
+- [Dernière édition PDF](build/book/Biographie-Francois-latest.pdf)
+- [Dernier corpus Notebook/RAG](build/notebook/notebook-biographie-francois-latest.zip)
+
+## Organisation
+
+### Récits destinés au livre
+
+- `famille/`
+- `scolarite/`
+- `formation/`
+- `militaire/`
+- `professionnel/`
+- `sante/`
+- `informatique/`
+- `voyages/`
+- `souvenirs/`
+
+### Documentation et sources
+
+- `connaissances/` — fiches sur les personnes, organisations et lieux ;
+- `archives/` — magazines, photos, logiciels et documents primaires ;
+- `bundles/` — paquets de séance et transcriptions historiques ;
+- `inbox/` — éléments encore à classer ;
+- `journal/` — comptes rendus et notes de travail ;
+- `meta/` — règles éditoriales et questions ouvertes.
+
+### Publication automatique
+
+- `tools/publish.py` — générateur du livre et du corpus ;
+- `.github/workflows/publish.yml` — publication automatique ;
+- `build/book/` — éditions PDF ;
+- `build/notebook/` — corpus Notebook/RAG ;
+- `build/reports/` — rapports de publication.
+
+Le dépôt Git est la source de vérité. Les fichiers de `build/` sont des artefacts générés et immédiatement téléchargeables.
 
 ## Règles de classement
 
@@ -31,6 +57,8 @@ Le projet distingue trois types de contenu :
 - Les corrections explicites de François priment sur les premières formulations.
 - Chaque dossier distingue autant que possible le souvenir personnel, l'interprétation et le fait vérifié extérieurement.
 - Les noms, dates et termes techniques incertains sont centralisés dans les questions ouvertes.
+- Les archives primaires sont conservées sans réécriture.
+- Les nouveaux fichiers évitent les espaces et utilisent de préférence des noms en minuscules séparés par des tirets.
 
 Ce dépôt est un travail en cours. Les textes seront corrigés et enrichis au fur et à mesure des souvenirs et des recherches documentaires.
 
