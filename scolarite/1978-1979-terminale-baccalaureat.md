@@ -1,16 +1,38 @@
-# 1978–1979 — Terminale et baccalauréat
+# 1977–1979 — Première, terminale et baccalauréat F1
 
 > **Statut :** souvenir personnel structuré  
-> **Source :** conversation « Biographie », messages 484 et 487  
-> **Certitude :** année déduite du baccalauréat obtenu en 1979 ; notes rapportées de mémoire
+> **Source :** conversations biographiques avec François  
+> **Certitude :** lycée et série confirmés ; notes rapportées de mémoire
 
-La terminale est une année paradoxale. François dit travailler très peu et sortir souvent avec un petit groupe composé d'un garçon et de trois filles. Il cite Laurence et Marielle, cette dernière décrite comme une très belle rousse. Il insiste sur le fait qu'il s'agissait alors d'amitiés de lycée, pas de relations amoureuses.
+Après sa seconde à Saint-Brieuc, François revient vivre chez ses parents.
 
-Malgré son faible investissement général, certaines matières l'intéressent réellement.
+Il fait sa **première puis sa terminale au Lycée de Montgeron**, situé à quelques kilomètres du domicile familial.
+
+La filière **F1, construction mécanique**, n'est pas un choix de vocation : c'est simplement la filière disponible. François ne se projette pas spécialement dans la mécanique.
+
+## Une terminale presque sans travail
+
+La terminale est une année paradoxale. François travaille très peu et sort souvent avec un petit groupe composé d'un garçon et de trois filles. Il cite Laurence et Marielle, cette dernière décrite comme une très belle rousse. Il insiste sur le fait qu'il s'agissait alors d'amitiés de lycée, pas de relations amoureuses.
+
+Son investissement scolaire est si faible qu'il pense sérieusement ne pas obtenir le baccalauréat. Il envisage alors un plan de repli : **s'engager dans la Marine**.
+
+Malgré ce travail presque inexistant, certaines matières correspondent très bien à sa manière de raisonner.
 
 - En **mécanique**, notamment en résistance des matériaux, un professeur jeune et excellent pédagogue rend le cours passionnant. François se souvient d'un **12 au baccalauréat**, qui aurait été la meilleure note des établissements voisins.
 - En **mathématiques**, ses moyennes seraient passées de 8 à 10 puis 12 au fil des trois trimestres. Le professeur, qui ne le considérait pas comme un bon élève, aurait cru qu'il copiait. François obtient pourtant **17 au baccalauréat**.
-- En **gammes d'usinage**, matière qui occupait peut-être douze heures par semaine, il assiste très rarement aux cours — de son propre aveu, environ une fois par mois. Le professeur lui répète qu'il gâche son potentiel. François obtient **16 au baccalauréat**. Après les résultats, le professeur lui dit en plaisantant qu'il est « dégoûté ».
+- En **gammes d'usinage**, matière qui occupait peut-être douze heures par semaine, il assiste très rarement aux cours — de son propre aveu, environ une fois par mois. François obtient **16 au baccalauréat**.
+
+## Les gammes d'usinage comme programmation
+
+François comprend cette matière comme un problème d'ordonnancement : il faut placer correctement les étapes successives d'une fabrication.
+
+> Les gammes d'usinage, c'est proche de la programmation. Il faut simplement ordonner correctement les étapes. Je n'avais pas besoin de douze heures de cours par semaine pour maîtriser ça.
+
+Lors de l'épreuve du baccalauréat, il pense avoir terminé extrêmement rapidement. Il doit attendre le délai réglementaire minimal de **trente minutes** avant d'avoir le droit de quitter la salle.
+
+Après les résultats, le professeur lui dit en plaisantant qu'il est « dégoûté ».
+
+François obtient ainsi son **baccalauréat F1, construction mécanique**, en 1979, alors qu'il pensait pouvoir le rater.
 
 ## Laurence
 
@@ -21,9 +43,11 @@ Malgré son faible investissement général, certaines matières l'intéressent 
 
 Il comprend alors que Laurence disait depuis des mois à ses parents qu'elle était avec lui, probablement pour dissimuler d'autres sorties.
 
+## Référence
+
+- [Chronologie scolaire de référence](../meta/chronologie-scolaire-reference.md)
+
 ## À vérifier
 
-- Nom et localisation du lycée.
-- Série exacte du baccalauréat technique, vraisemblablement F1 d'après d'autres souvenirs, mais à confirmer.
-- Relevé de notes du baccalauréat, s'il a été conservé.
+- Relevé de notes du baccalauréat, s'il réapparaît un jour ; François indique ne pas l'avoir actuellement.
 - Identité des professeurs et noms des deux autres camarades du groupe, si François souhaite les citer.
