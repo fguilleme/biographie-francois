@@ -1,0 +1,18 @@
+# Fichiers locaux Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Fichiers temporaires et éditeurs
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Artefacts locaux intermédiaires
+*.tmp
+*.bak
+
+# Les artefacts publiés de build/ sont volontairement versionnés.
