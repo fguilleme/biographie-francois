@@ -62,8 +62,39 @@ Ils voyagent également avec deux hommes d'une trentaine d'années. L'un a grand
 
 La traversée du Far West passe, dans le souvenir de François, par l'Arizona, le Nouveau-Mexique et la Californie ; l'itinéraire exact reste à préciser. Dans le désert du Nouveau-Mexique, ils passent une nuit avec un routard hollandais d'environ deux mètres et un vétéran du Vietnam. Celui-ci déconseille d'allumer un feu, de peur qu'ils soient vus.
 
-Le voyage se termine à San Diego.
+## De San Diego à San Francisco
 
-## Source
+Après un bref arrêt d'environ une heure à San Diego, un automobiliste les emmène jusqu'à Los Angeles.
+
+Ils cherchent un endroit où dormir. La plage paraît impraticable à cause des patrouilles. Ils finissent par trouver un coin discret entre des voies rapides, sur ou près de la highway, dans la région de Santa Barbara.
+
+Le lendemain, ils prennent la direction de San Francisco par la route côtière. Le trajet est moins rapide mais plus beau. François pense qu'il leur faut environ une semaine, avec de nombreux lifts, sans souvenir aussi marquant que celui du chasseur de primes.
+
+## L'European Guest House
+
+À San Francisco, ils s'installent à l'**European Guest House**, près de Market Street. Leur projet initial était de continuer vers le Canada, mais François ne se souvient plus du moment où ils ont décidé de rester à San Francisco. En pratique, ils ne vont pas plus loin ensemble.
+
+Ils dorment dans la **Glass Room**, une grande pièce au plafond de verre où l'on voit le ciel. Des routards venus de nombreux pays y trouvent chacun environ deux mètres carrés de moquette pour étendre leur sac de couchage.
+
+Après quelques semaines, Sylvette repart. François ne sait plus si elle poursuit vers le Canada ou ailleurs.
+
+Cette période lui laisse un souvenir heureux et très fragmenté : beaucoup de rencontres, mais peu de scènes complètes. Il se rappelle notamment deux Françaises, **Stella** et **Élisabeth**, ainsi qu'un Italien dont le prénom était peut-être **Mario**.
+
+François prend aussi quelques heures de pilotage d'avion, sans se juger particulièrement doué. Il essaie pendant une journée de conduire un **velicab**, un triporteur destiné à transporter les touristes, puis abandonne.
+
+## Deux bars à San Francisco
+
+Un soir, Stella et Élisabeth veulent entrer dans un bar gay pour voir. L'ambiance est marquée par le cuir et les moustaches, dans un style qui évoque à François Freddie Mercury en 1985.
+
+Au bar, un client montre à Élisabeth une grande affiche représentant un homme nu dont on ne voit pas le visage et lui demande :
+
+> « Tu ne trouves pas que je lui ressemble ? »
+
+Plus tard, le groupe entre dans un second bar, beaucoup plus bondé, à l'ambiance country. François voit deux grands hommes barbus, bâtis comme des bûcherons, s'embrasser passionnément. La scène le frappe comme un choc culturel :
+
+> « C'est vrai que je suis à San Francisco… »
+
+## Sources
 
 - [Transcript de la séance du 15 juillet 2026](../bundles/archive/sessions/2026/2026-07-15-transcript.md)
+- [Transcript brut de la séance du 17 juillet 2026](../raw%20conversations/archive_biographie_20260717.md)
