@@ -36,13 +36,13 @@ Restent à préciser :
 - Établir les dates exactes des activités CBS et de la démonstration pour le Coleco Adam.
 - Identifier le concurrent ayant sous-traité la démonstration à François.
 - Retrouver les dates exactes du stage de six semaines et du CDI chez LINCS.
-- Confirmer l'année du voyage USA–Mexique, probablement 1984.
+- Confirmer l'année du voyage USA–Mexique, probablement 1984 ; le souvenir de San Francisco est situé par François en 1985.
 - Confirmer ou infirmer le passage par El Paso.
 - Retrouver le nom complet de Claude.
 - Dater le tremblement de terre ressenti à Puebla.
 - Retrouver le nom de la guest house de Puerto Ángel.
 
-## 1984 — Guatemala et remontée vers les États-Unis
+## Guatemala, remontée et Californie
 
 - Identifier le poste frontière Guatemala/Mexique.
 - Confirmer Aguascalientes comme gare ou étape ferroviaire.
@@ -52,6 +52,11 @@ Restent à préciser :
 - Vérifier le passage exact par El Paso.
 - Préciser l'itinéraire en Arizona, au Nouveau-Mexique et en Californie.
 - Préciser la gare frontière d'arrivée aux États-Unis.
+- Localiser plus précisément le lieu de la nuit entre les voies rapides, dans la région de Santa Barbara.
+- Vérifier l'appellation exacte et, si possible, l'adresse de l'**European Guest House** près de Market Street.
+- Confirmer le nom de la **Glass Room**.
+- Retrouver, si le souvenir revient, le prénom exact de l'Italien du groupe, peut-être Mario.
+- Préciser la nature et le lieu des quelques heures de pilotage.
 
 ## Voyages supplémentaires
 
