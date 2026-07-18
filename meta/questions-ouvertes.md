@@ -28,7 +28,7 @@ Restent à préciser :
 - Identifier l'employeur et l'intitulé exact du poste à La Hague en 1983.
 - Retrouver, si possible, le nom du foyer de jeunes situé près du logement de Cherbourg.
 
-## 1983–1984 — Formation, accident, CBS, LINCS et voyage USA–Mexique
+## 1983–1984 — Formation, accident, CBS et LINCS
 
 - Retrouver la date exacte du début de la formation informatique.
 - Identifier le nom de l'organisme de formation.
@@ -36,13 +36,13 @@ Restent à préciser :
 - Établir les dates exactes des activités CBS et de la démonstration pour le Coleco Adam.
 - Identifier le concurrent ayant sous-traité la démonstration à François.
 - Retrouver les dates exactes du stage de six semaines et du CDI chez LINCS.
-- Confirmer l'année du voyage USA–Mexique, probablement 1984 ; le souvenir de San Francisco est situé par François en 1985.
-- Confirmer ou infirmer le passage par El Paso.
 - Retrouver le nom complet de Claude.
 - Dater le tremblement de terre ressenti à Puebla.
 - Retrouver le nom de la guest house de Puerto Ángel.
 
-## Guatemala, remontée et Californie
+## Guatemala, remontée et Californie — 1984–1985
+
+Le voyage est désormais daté de fin décembre 1984 à fin mai 1985, avec retour en France le 31 mai 1985.
 
 - Identifier le poste frontière Guatemala/Mexique.
 - Confirmer Aguascalientes comme gare ou étape ferroviaire.
@@ -57,6 +57,38 @@ Restent à préciser :
 - Confirmer le nom de la **Glass Room**.
 - Retrouver, si le souvenir revient, le prénom exact de l'Italien du groupe, peut-être Mario.
 - Préciser la nature et le lieu des quelques heures de pilotage.
+
+## Été 1985 — Djinntel
+
+- Confirmer l'orthographe exacte de **Djinntel**.
+- Préciser la nature exacte du système ou serveur lié au Minitel.
+- Confirmer le processeur utilisé : 8080, 8085 ou compatible.
+- Retrouver le nom complet et la fonction exacte de Régis, responsable du développement.
+- Identifier le cadre ayant déclaré : « Nous ne vous aurions pas pris. Et nous aurions eu tort ! »
+- Préciser la société de synthèse d'animations 3D créée par Henri Seydoux après Djinntel.
+- Documenter plus précisément le système de fichiers séquentiel indexé développé en C.
+- Préciser le contrôleur de disquette piloté directement pour le mode piste de Nibble.
+
+## 1985–1986 — Médecine
+
+- Identifier la faculté de médecine fréquentée.
+- Confirmer les dates exactes de la première année et du redoublement.
+- Retrouver, si possible, les résultats ou le rang.
+
+## 1986 — Chine, Tibet, Népal et Inde
+
+- Retrouver le nom de l'étudiant anglais rencontré à l'aéroport de Pékin.
+- Retrouver le nom complet de **Jörg**.
+- Retrouver le nom du Suisse étudiant en Chine qui parlait des « chinoiseries ».
+- Documenter les **FEC**, billets réservés aux étrangers, et les souvenirs précis de leur usage.
+- Développer les souvenirs des **Friendship Stores**, magasins d'État réservés aux étrangers selon le souvenir de François.
+- Préciser les hôtels fréquentés à Pékin.
+- Identifier plus précisément la technique des nouilles manipulées avec de longues baguettes à Xi'an.
+- Confirmer les durées Pékin, Xi'an, Xining et du trajet Xining–Golmud.
+- Vérifier la durée du bus Golmud–Lhassa, mémorisée comme environ douze heures.
+- Développer le séjour à Lhassa.
+- Développer la traversée de l'Himalaya vers Katmandou.
+- Développer le passage par Varanasi et l'arrivée à New Delhi.
 
 ## Voyages supplémentaires
 
