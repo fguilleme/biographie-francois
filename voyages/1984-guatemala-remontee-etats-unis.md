@@ -1,6 +1,6 @@
-# 1984 — Guatemala et remontée vers les États-Unis
+# 1984–1985 — Guatemala et remontée vers les États-Unis
 
-> **Souvenir personnel.** L'année 1984 est probable dans la chronologie générale. Le poste-frontière d'entrée au Guatemala, le passage par Aguascalientes et la durée exacte de la remontée restent à confirmer.
+> **Souvenir personnel.** Le voyage commence fin décembre 1984 et s'achève fin mai 1985. Le poste-frontière d'entrée au Guatemala, le passage par Aguascalientes et la durée exacte de certaines étapes restent à confirmer.
 
 ## Du Mexique au Guatemala
 
@@ -94,7 +94,18 @@ Plus tard, le groupe entre dans un second bar, beaucoup plus bondé, à l'ambian
 
 > « C'est vrai que je suis à San Francisco… »
 
+## Le retour en France
+
+Vers la fin mai 1985, François décide de rentrer. Il n'a pratiquement plus d'argent, notamment à cause de ses leçons de pilotage. Les dépenses effectuées à l'étranger mettent du temps à être débitées et il découvre avec retard l'ampleur de son découvert.
+
+Il organise son retour pour arriver en France le matin du **31 mai 1985**, jour de l'anniversaire de son père.
+
+Le voyage aura duré exactement cinq mois, de la fin décembre 1984 à la fin mai 1985. C'est alors son plus long voyage.
+
+Il revient coiffé d'un Stetson dans le style d'Indiana Jones, qui l'accompagnera encore pendant plusieurs mois.
+
 ## Sources
 
 - [Transcript de la séance du 15 juillet 2026](../bundles/archive/sessions/2026/2026-07-15-transcript.md)
 - [Transcript brut de la séance du 17 juillet 2026](../raw%20conversations/archive_biographie_20260717.md)
+- [Transcript brut de la séance du 18 juillet 2026](../raw%20conversations/archive_biographie_20260718.md)
