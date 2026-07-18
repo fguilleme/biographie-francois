@@ -38,10 +38,11 @@
 - **1984** — Activités ponctuelles pour CBS autour du Coleco Adam.
 - **1984** — Stage de six semaines chez LINCS, puis CDI.
 - **1984** — Départ de LINCS après environ cinq mois.
-- **1984 (année probable, à confirmer)** — Voyage par New York, La Nouvelle-Orléans, Laredo, Mexico, Puebla, Puerto Ángel, Oaxaca, Mérida, Chichén Itzá et Palenque ; passage par El Paso probable mais non confirmé.
+- **Fin décembre 1984** — Départ pour un voyage de cinq mois par les États-Unis, le Mexique et le Guatemala.
 
-## 1984 — Guatemala et remontée vers les États-Unis
+## 1984–1985 — Mexique, Guatemala et États-Unis
 
+- Voyage par New York, La Nouvelle-Orléans, Laredo, Mexico, Puebla, Puerto Ángel, Oaxaca, Mérida, Chichén Itzá et Palenque.
 - Entrée au Guatemala depuis la côte pacifique du Mexique, par un poste-frontière non identifié.
 - Arrêt à San Francisco El Alto, puis arrivée au lac Atitlán.
 - Passage bref à Panajachel, puis séjour d'environ trois semaines à San Pedro La Laguna.
@@ -49,8 +50,21 @@
 - Train vers le nord après une étape probablement située à Aguascalientes ; nom à confirmer.
 - Passage de la frontière américaine, à une gare qui reste à identifier.
 - Reprise du stop à El Paso, passage exact à vérifier, puis traversée de l'Arizona et du Nouveau-Mexique avant l'arrivée à San Diego.
-- La durée depuis le Guatemala jusqu'à la frontière américaine est incertaine, probablement inférieure à une semaine selon le souvenir de François.
+- Séjour à San Francisco à l'European Guest House, près de Market Street.
+- **31 mai 1985** — Retour en France le matin de l'anniversaire du père de François. Le voyage a duré exactement cinq mois et constitue alors son plus long voyage.
 - Récit détaillé : [Guatemala et remontée vers les États-Unis](voyages/1984-guatemala-remontee-etats-unis.md).
+
+## 1985–1986 — Djinntel, médecine et Chine
+
+- **Été 1985** — Pour rembourser son découvert, François trouve à l'ANPE une offre improbable de programmeur assembleur 8080 et entre chez **Djinntel**.
+- Il travaille environ trois mois en assembleur 8080, enseigne le langage C au reste de l'équipe et rencontre brièvement Henri Seydoux, consultant.
+- Le soir, il programme en 6502 sur Oric et développe **Nibble**, éditeur de disquettes comportant un mode piste pilotant directement le contrôleur de disque.
+- **Automne 1985** — Entrée en première année de médecine, décision née de la rencontre avec Claude au Mexique.
+- François a vingt-quatre ans, échoue par manque de travail et redouble.
+- **Été 1986** — Départ pour la Chine, sans préparation détaillée, avec le projet de rejoindre Lhassa, Katmandou, Varanasi puis New Delhi.
+- Environ trois semaines à Pékin avec un étudiant anglais en anthropologie ; ce séjour débloque son aisance en anglais.
+- Passage par Xi'an et l'armée de terre cuite, puis Xining, Golmud et bus vers Lhassa.
+- Récit détaillé : [Chine, Tibet, Népal et Inde](voyages/1986-chine-tibet-nepal-inde.md).
 
 ## Premiers voyages
 
@@ -60,9 +74,10 @@
 
 ## Années 1980 — Informatique
 
-- **Vers 1985** — Travail de quelques mois chez **Djinntel**, dirigée par Jean-Pierre Talvard.
+- **Été 1985** — Travail de quelques mois chez **Djinntel**, dirigée par Jean-Pierre Talvard.
 - Programmation professionnelle en assembleur 8080 sur un serveur Minitel ; programmation personnelle en 6502 sur Oric le soir.
-- Rencontre d’Henri Seydoux chez Djinntel.
+- François est le seul de l'équipe à connaître le langage C et l'enseigne à ses collègues.
+- Rencontre d’Henri Seydoux chez Djinntel ; leurs chemins se recroiseront près de vingt ans plus tard chez Parrot, en 2003.
 - Développement de **Nibble** sur Oric, publié par Informatique et Nature.
 - **1986–1990 environ** — Développements sur Atari ST : **SuperFormat**, **Expander**, **Twist**, utilitaires disque et pilote de grand écran.
 - Collaboration comme pigiste avec **ST Magazine**, en tant que développeur proche de la rédaction.
@@ -70,6 +85,7 @@
 
 ## À documenter ensuite
 
+- Suite du voyage de 1986 : Lhassa, Tibet, Népal, Varanasi et New Delhi.
 - Afrique du Sud.
 - Israël.
 - Voyages en Asie, Afrique et Amérique latine.
