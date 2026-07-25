@@ -2,7 +2,7 @@
 
 > **Statut :** brouillon biographique  
 > **Source :** souvenirs de François  
-> **Itinéraire général confirmé par François :** Pékin, Xi'an, Xining, Golmud, Lhassa, Katmandou, Varanasi, New Delhi
+> **Itinéraire général confirmé par François :** Pékin, Xi'an, Xining, Golmud, Lhassa, Katmandou, Varanasi, Agra, New Delhi
 
 ## Un projet sommaire mais ambitieux
 
@@ -76,9 +76,99 @@ Dans le train vers Golmud, François et Jörg rencontrent d'autres routards, de 
 
 Golmud apparaît surtout comme une ville de garnison au nord du plateau tibétain.
 
-Depuis Golmud, ils prennent un bus vers Lhassa.
+Depuis Golmud, ils prennent un bus vers Lhassa. Le trajet dure « à peine douze heures » — formule ironique de François après les très longs trajets déjà accumulés.
 
-Le trajet dure « à peine douze heures » — formule ironique de François après les très longs trajets déjà accumulés.
+## Lhassa
+
+François arrive à Lhassa en fin de journée. Jörg reste avec le groupe, tandis que François part de son côté.
+
+Il trouve une petite guest house rudimentaire : dortoirs, sanitaires à l'étage et toilettes composées de trois trous alignés dans une pièce d'environ trois mètres de long.
+
+En entrant dans un dortoir, un occupant lui dit aussitôt bonjour en français. François lui demande comment il a reconnu sa nationalité. Réponse : à son sac **Millet**. « On ne m'y reprendra plus. »
+
+Quelques jours plus tard arrivent deux Françaises, **Fabienne** et **Isabelle**. Ils forment un petit groupe.
+
+### Deux anecdotes de toilettes
+
+Un jour, Isabelle fait tomber sa sacoche dans le trou. Elle doit rechercher son passeport et ses papiers parmi ses propres excréments. François est certain qu'elle s'en souvient encore quarante ans plus tard.
+
+Une autre fois, François entre pour la grosse commission. Un homme occupe déjà un trou ; François choisit donc celui de l'autre extrémité. Un troisième arrive, regarde l'homme à gauche, François à droite, puis le trou libre au centre. Il préfère repartir. La scène est hilarante.
+
+## Le Potala
+
+Le Potala est magnifique. La côte qui y mène est particulièrement raide et, à cette altitude, le souffle manque vite. François y retourne plusieurs fois — « pas tous les jours, faut pas pousser ».
+
+Il est interdit de prendre des photos et, dans chaque pièce, un moine surveille les visiteurs. Dans l'une d'elles, un moine lui fait signe de s'asseoir et sort un livre très usé : un manuel d'initiation à l'anglais pour Tibétains. François passe environ une heure à enseigner l'anglais à un moine tibétain au cœur du Potala.
+
+Adolescent, il lisait les livres de **Lobsang T. Rampa**, prétendu ancien moine tibétain réincarné dans le corps d'un Anglais — « n'importe quoi, mais peu importe ». Dans une pièce du Potala, il retrouve exactement l'atmosphère qu'il s'était imaginée en lisant l'une de ces scènes.
+
+## Organiser le départ vers le Népal
+
+Le projet reste de passer de l'autre côté de l'Himalaya. À l'époque, un bus quotidien repart vers le nord, mais il n'y a qu'un départ hebdomadaire vers le Népal.
+
+La solution classique consiste à louer un bus puis à revendre les places aux routards bloqués à Lhassa. Un couple d'Australiens organise le trajet. Après environ trois semaines d'attente, le groupe part enfin.
+
+Nous sommes avant Tian'anmen et le passage est encore ouvert. Fabienne et Isabelle avaient tenté de partir en stop, mais avaient abandonné devant le peu de succès. Les chauffeurs chinois n'étaient sans doute pas habitués à voir deux jeunes femmes faire du stop pour traverser l'Himalaya.
+
+## Une semaine sur la route
+
+Le voyage dure environ une semaine, avec des arrêts dans des lodges.
+
+François goûte au fameux thé tibétain salé au beurre rance. Il parvient difficilement à finir sa tasse. L'estomac de Fabienne, lui, ne dépasse pas l'étape du trempage de langue ; il avait d'ailleurs tendance à se vider spontanément.
+
+Le bus fait une pause à environ **5 600 mètres**, point le plus haut du trajet. François croit se souvenir qu'on y voyait l'Everest. Le moteur du bus peine et « halète comme un tuberculeux ».
+
+Le groupe pense qu'il n'y a personne aux alentours lorsqu'un Tibétain apparaît, une fleur à la bouche, passant par là comme si cette altitude était parfaitement normale. Apparemment, pour lui, elle l'était.
+
+François ne fumait pas à cette époque, mais les autres voyageurs, oui. Ils étaient surpris de voir leurs cigarettes durer aussi longtemps.
+
+## Descente et frontière
+
+Lorsque la route redescend, le bus retrouve son souffle. Le chauffeur s'en donne alors à cœur joie et provoque quelques frayeurs.
+
+En fin de journée, ils arrivent à la frontière. Le passage lui paraît finalement très classique. Mentalement épuisé, François se dit qu'il ne remettra jamais les pieds dans « ce pays de merde ». En réalité, il y retournera plusieurs fois.
+
+Il est trop tard pour rejoindre Katmandou. Un hôtel miteux à la frontière fait l'affaire. Au petit matin, un bus inconfortable les emmène vers la capitale. François voyage complètement tordu ; heureusement, cela ne dure qu'environ quatre heures.
+
+## Katmandou
+
+La première journée est étrange. François se sent presque ivre. Il attribue ce déphasage à l'abondance relative d'oxygène après le séjour en altitude.
+
+Il ne reste que quelques jours, au milieu des temples peuplés de hordes de singes. Un détail le marque : les encadrements de portes sont souvent si bas que le sommet de sa tête les dépasse, et il se cogne régulièrement.
+
+## Varanasi et Agra
+
+Depuis Katmandou, François part pour **Varanasi**, découvre les processions et les rituels de mort au bord du Gange. Sans plus : c'est sa première découverte de l'Inde, mais elle ne le bouleverse pas encore.
+
+Il reprend ensuite le train vers **Agra**, pense-t-il, pour voir le Taj Mahal.
+
+Dans le train, il bavarde en anglais pendant une dizaine de minutes avec un autre routard. François explique ses projets et dit qu'il va rentrer en France.
+
+— Pourquoi la France ?
+
+— Parce que je suis français.
+
+— Ah, on va pouvoir continuer en français !
+
+L'autre voyageur était lui aussi français, et aucun des deux ne s'en était rendu compte.
+
+## Le Taj Mahal
+
+Le Taj Mahal est, pour François, clairement le plus beau monument qu'il connaisse.
+
+Ils arrivent avant la mise en route des jets d'eau, ce qui n'est pas toujours le cas. Le lieu étant musulman, on doit marcher pieds nus. Le marbre blanc paraît frais, mais devient brûlant lorsque le soleil tape.
+
+## New Delhi et le retour
+
+À New Delhi, François est frappé par les mendiants déformés, spectacle presque incroyable pour un Occidental. Dans son souvenir, la mendicité y est même perçue comme un métier honorable.
+
+Il arrive au terme du voyage et n'a plus d'argent. Son billet Air France est un billet « passager compagnie », sans priorité : on n'embarque que s'il reste une place. N'ayant pu monter sur le vol précédent, François passe trois jours à vivre dans l'aéroport avec juste de quoi acheter trois samoussas par jour.
+
+Une place finit par se libérer et il embarque pour Paris.
+
+## Retour et médecine
+
+François revient clairement déphasé. Il est temps de se réinscrire en médecine pour redoubler sa première année.
 
 ## À développer lors d'une prochaine séance
 
@@ -86,6 +176,5 @@ Le trajet dure « à peine douze heures » — formule ironique de François apr
 - Les **Friendship Stores**, magasins d'État interdits aux Chinois selon le souvenir de François.
 - Le nom de l'Anglais rencontré à l'aéroport de Pékin.
 - Le nom complet de Jörg.
-- Le séjour à Lhassa.
-- La traversée vers Katmandou.
-- Le passage par Varanasi et l'arrivée à New Delhi.
+- Le nom de la guest house de Lhassa.
+- La date et l'itinéraire exacts du passage Katmandou–Varanasi–Agra–New Delhi.
