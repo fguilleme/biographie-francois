@@ -63,8 +63,14 @@
 - François a vingt-quatre ans, échoue par manque de travail et redouble.
 - **Été 1986** — Départ pour la Chine, sans préparation détaillée, avec le projet de rejoindre Lhassa, Katmandou, Varanasi puis New Delhi.
 - Environ trois semaines à Pékin avec un étudiant anglais en anthropologie ; ce séjour débloque son aisance en anglais.
-- Passage par Xi'an et l'armée de terre cuite, puis Xining, Golmud et bus vers Lhassa.
-- Récit détaillé : [Chine, Tibet, Népal et Inde](voyages/1986-chine-tibet-nepal-inde.md).
+- Passage par Xi'an et l'armée de terre cuite, puis Xining et Golmud.
+- Arrivée à Lhassa ; séjour d'environ trois semaines dans une guest house rudimentaire, visites répétées du Potala et leçon d'anglais improvisée à un moine.
+- Bus affrété par des routards vers le Népal ; traversée d'environ une semaine, point culminant vers 5 600 mètres.
+- Passage par Katmandou, Varanasi, Agra et New Delhi.
+- Trois jours à l'aéroport de New Delhi, avec trois samoussas par jour, avant de pouvoir embarquer comme passager compagnie.
+- Retour en France et réinscription en première année de médecine pour redoubler.
+- **Noël 1986** — Dernier billet passager compagnie et séjour à Rio de Janeiro, durée probablement proche de vingt jours mais non confirmée.
+- Récits détaillés : [Chine, Tibet, Népal et Inde](voyages/1986-chine-tibet-nepal-inde.md) et [Rio de Janeiro](voyages/1986-rio-de-janeiro.md).
 
 ## Premiers voyages
 
@@ -85,7 +91,7 @@
 
 ## À documenter ensuite
 
-- Suite du voyage de 1986 : Lhassa, Tibet, Népal, Varanasi et New Delhi.
+- Suite du séjour à Rio et retour à la médecine.
 - Afrique du Sud.
 - Israël.
 - Voyages en Asie, Afrique et Amérique latine.
