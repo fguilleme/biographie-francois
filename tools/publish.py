@@ -101,12 +101,19 @@ def register_fonts() -> tuple[str, str]:
 
 
 def clean_inline(text: str) -> str:
+    """Convertit le Markdown inline autorisé en balises ReportLab sûres.
+
+    Le texte est d'abord nettoyé puis échappé. Les balises <b> et <i> sont
+    ajoutées seulement après l'échappement ; elles ne peuvent donc plus être
+    transformées en texte littéral (&lt;b&gt;) dans le PDF.
+    """
     text = re.sub(r"!\[[^]]*\]\([^)]*\)", "", text)
     text = re.sub(r"\[([^]]+)\]\([^)]*\)", r"\1", text)
     text = re.sub(r"`([^`]+)`", r"\1", text)
+    text = escape(text)
     text = re.sub(r"\*\*([^*]+)\*\*", r"<b>\1</b>", text)
     text = re.sub(r"(?<!\*)\*([^*]+)\*(?!\*)", r"<i>\1</i>", text)
-    return escape(text, entities={"<b>": "<b>", "</b>": "</b>", "<i>": "<i>", "</i>": "</i>"})
+    return text
 
 
 def markdown_story(path: Path, styles: dict[str, ParagraphStyle]) -> list:
