@@ -119,7 +119,31 @@ Il se souvient bien avoir fait un voyage en Indonésie vers **1989**, mais celui
 
 Ce flou fait partie du matériau biographique : plusieurs voyages dans les mêmes pays, à quelques années d’intervalle, finissent naturellement par se superposer dans la mémoire.
 
-Le voyage de 1993 ne s’arrête d’ailleurs pas à Jakarta : François remonte ensuite vers **la Malaisie**. Cette partie reste à raconter.
+## Retour à Singapour, puis Tioman
+
+Après l’Indonésie, François revient à **Singapour** et repart presque aussitôt vers la côte est de la Malaisie pour passer environ une semaine sur **Tioman Island**.
+
+Le séjour est agréable. Il se promène sur l’île sans qu’un événement particulier lui soit resté en mémoire. Tioman lui paraît cependant moins paradisiaque que les îles de la côte ouest de la Malaisie, dont il garde surtout le souvenir d’eaux turquoise magnifiques.
+
+### Voyager seul : ne jamais perdre ses papiers
+
+Tioman illustre en revanche une contrainte qui accompagne François pendant tous ses voyages en solitaire : il ne peut jamais complètement baisser la garde.
+
+Ses papiers, son argent et ses affaires essentielles sont sa responsabilité exclusive. Sur une plage, personne n’est là pour surveiller son sac pendant qu’il se baigne. Il évite donc de laisser ses affaires sans surveillance — au point de ne même pas aller tremper quelques instants les pieds dans l’eau. Cela ne représente d’ailleurs pas un immense sacrifice : il n’aime guère se baigner.
+
+Cette vigilance devient une véritable discipline de voyage.
+
+François **ne défait pratiquement jamais son sac**. Ses affaires restent organisées de façon à pouvoir repartir immédiatement. En cas d’imprévu, il doit pouvoir prendre son sac et quitter les lieux en une minute, sans passer une demi-heure à rechercher un chargeur, un vêtement ou des papiers éparpillés dans la chambre.
+
+Des décennies plus tard, il mesure à quel point cette habitude lui est restée en observant sa fille, contrainte de quitter précipitamment un logement au Guatemala et ayant dû, dans l’urgence, y oublier quelques affaires. Pour François, la comparaison fait immédiatement ressurgir cette règle acquise pendant ses années de voyage : **être toujours prêt à partir**.
+
+## Trois informaticiens rencontrés sur le bateau
+
+Au départ de Tioman, François fait connaissance sur le bateau avec trois personnes : **deux Australiens et une Malaisienne d’origine chinoise**, qu’il trouve par ailleurs très jolie.
+
+Tous trois travaillent dans l’informatique pour un **casino situé au nord de Kuala Lumpur**.
+
+La rencontre ne restera pas un simple échange entre voyageurs : quelques semaines plus tard, François aura l’occasion d’aller leur rendre visite sur leur lieu de travail.
 
 ## À vérifier
 
@@ -132,4 +156,7 @@ Le voyage de 1993 ne s’arrête d’ailleurs pas à Jakarta : François remonte
 - Ville des hauteurs de Bali où François séjourne parmi les singes.
 - Nom de l’Australien rencontré dans le sud de Java et nom de son employeur dans le secteur pétrolier.
 - Épisode de Cynthia : déterminer à quel voyage il appartient.
-- Suite du trajet de Jakarta vers la Malaisie.
+- Itinéraire exact entre Singapour et Tioman.
+- Îles ou lieux précis de la côte ouest malaisienne auxquels François compare Tioman.
+- Noms des deux Australiens et de la Malaisienne d’origine chinoise rencontrés sur le bateau.
+- Nom et localisation exacte du casino au nord de Kuala Lumpur où ils travaillent.
