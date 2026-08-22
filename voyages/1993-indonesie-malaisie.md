@@ -1,4 +1,4 @@
-# 1993 — Indonésie et Malaisie
+# 1993 — Indonésie, Malaisie, Bornéo, Thaïlande et Vietnam
 
 > **Statut :** brouillon biographique  
 > **Source :** souvenirs de François  
@@ -13,150 +13,224 @@ La ville lui paraît presque irréellement propre. Il comprend pourquoi elle est
 
 Il remarque aussi que de nombreux magasins et supermarchés disposent de véritables installations de boulangerie et fabriquent leur pain sur place.
 
-Comme souvent dans les grandes villes asiatiques, il prend parfois son petit déjeuner chez McDonald’s, solution prévisible et relativement économique pour un routard. Mais Singapour lui fait surtout découvrir les immenses espaces de restauration installés dans les sous-sols climatisés des centres commerciaux : des tables communes au milieu, et tout autour une multitude de petites échoppes. On peut prendre un plat indien à l’une, un plat thaï à l’autre, tandis que son voisin mange encore autre chose. Une sorte de street food organisée, climatisée et bon marché.
+Comme souvent dans les grandes villes asiatiques, il prend parfois son petit déjeuner chez McDonald’s, solution prévisible et relativement économique pour un routard. Mais Singapour lui fait surtout découvrir les immenses espaces de restauration installés dans les sous-sols climatisés des centres commerciaux : des tables communes au milieu, et tout autour une multitude de petites échoppes.
 
-## Jakarta et « Rambo »
+## Jakarta, Sumatra, Java et Bali
 
-Depuis Singapour, François s’envole pour **Jakarta**.
+Depuis Singapour, François s’envole pour **Jakarta**. Dans la file du contrôle des passeports, il engage la conversation avec un homme de son âge, blond et extrêmement baraqué, probablement suisse et francophone. Dans la rue, les Indonésiens le surnomment spontanément « Rambo ». Derrière cette carrure spectaculaire se cache pourtant un homme très timide.
 
-Dans la file du contrôle des passeports, il engage la conversation avec un homme de son âge, blond et extrêmement baraqué. Il est probablement suisse et parle français.
+Après quelques jours, François part vers **Sumatra**. Un bus dans lequel il dort quitte un jour la route et termine dans le fossé, heureusement sans blessé. Arrivé près d’un lac dont le nom lui échappe, François entreprend d’en faire le tour à vélo en pensant parcourir une vingtaine de kilomètres ; il en fait plutôt 70 et y passe pratiquement la journée.
 
-Ils passent quelques jours ensemble à Jakarta. Dans la rue, les Indonésiens le surnomment spontanément **« Rambo »**, tant son physique d’athlète détonne.
+À **Medan**, voulant notamment voir des orangs-outans dans la région, il refuse les taxis à la gare routière et entreprend de rejoindre le centre à pied. Après une longue marche sans véritable carte, un jeune Indonésien à moto l’accueille finalement chez sa famille. François conserve de cet épisode un souvenir très chaleureux.
 
-Le contraste amuse François : derrière cette carrure spectaculaire se cache un homme très timide, notamment lorsqu’il parle de sa petite amie indonésienne qui doit le rejoindre.
+Il revient ensuite à Java, passe par **Yogyakarta**, visite les grands sites historiques et explore également la ville au milieu de la nuit. Il poursuit vers **Bali**, séjourne notamment dans les hauteurs parmi les singes omniprésents, puis descend vers la côte touristique, probablement Kuta. Une image lui reste : un Australien tellement ivre qu’il rampe littéralement dans la rue au milieu des bars.
 
-Après trois ou quatre jours, leurs routes se séparent. Son compagnon part vers l’intérieur de Java tandis que François décide de découvrir **Sumatra**.
-
-## Sumatra : le bus dans le fossé
-
-François prend le ferry pour Sumatra, puis un bus en direction d’un lac dont le nom lui échappe encore.
-
-Pendant le trajet, alors qu’il dort, le bus quitte la route et termine franchement dans le fossé.
-
-Le réveil est brutal, mais heureusement personne n’est blessé. L’incident reste surtout un de ces souvenirs de voyage qui, des décennies plus tard, reviennent sous la forme d’une image très nette : on s’endort dans un bus, on se réveille dans un fossé.
-
-## Le tour du lac à vélo
-
-Arrivé au lac, François décide un matin d’en faire le tour à vélo.
-
-Il estime la distance à une vingtaine de kilomètres. Cela lui paraît une promenade raisonnable.
-
-Son estimation est légèrement optimiste : le parcours fait plutôt **70 kilomètres**.
-
-Parti vers sept heures du matin, il ne revient qu’aux alentours de dix-huit heures, après pratiquement une journée entière sur le vélo. Le soir, il est épuisé, mais le souvenir l’amuse encore.
-
-## Medan et l’hospitalité indonésienne
-
-François poursuit vers le nord de Sumatra et **Medan**, notamment parce qu’il souhaite voir des orangs-outans dans la région.
-
-À la descente du bus, comme souvent, une nuée de taxis lui propose ses services. Fidèle à son habitude de routard têtu, il refuse : il ira au centre-ville à pied.
-
-Il oublie un détail essentiel : en Asie, les grandes gares routières peuvent être très éloignées du centre.
-
-Sans GPS et sans véritable carte, il marche une heure, peut-être deux, sans même savoir s’il va dans la bonne direction.
-
-Il finit par rencontrer un jeune Indonésien à moto. Ils discutent en anglais. L’homme lui propose finalement de l’emmener chez lui.
-
-François passe la nuit dans sa famille, très modestement installée, avec notamment sa mère et sa sœur. Il garde de cet épisode un souvenir très chaleureux et, plus généralement, celui d’Indonésiens particulièrement accueillants.
-
-## Retour à Java et Yogyakarta
-
-François revient ensuite vers **Jakarta**, ville qu’il apprécie peu en tant que destination : utile pour les banques, les transports et les formalités, mais trop grande pour lui donner envie d’y rester.
-
-Il rejoint **Yogyakarta**, au centre de Java, pour découvrir les grands sites historiques de la région.
-
-Les temples et les ruines sont magnifiques, mais François constate une limite personnelle : sans connaître suffisamment l’histoire de la civilisation qui les a produits, il a l’impression de n’en percevoir qu’une partie. Les sculptures restent belles, mais leur sens lui échappe en partie.
-
-Il participe également à l’une de ces excursions où l’on se lève vers quatre heures du matin pour atteindre un point élevé et regarder le soleil se lever. Le spectacle est agréable, mais ne lui paraît pas aussi exceptionnel que sa réputation touristique le promet.
-
-### Yogyakarta la nuit
-
-François aime explorer les villes à des heures inhabituelles. Comme il l’avait déjà fait ailleurs, notamment à New York, il décide de découvrir Yogyakarta au milieu de la nuit, vers une, deux ou trois heures du matin.
-
-Il découvre une ville encore vivante, des habitants accueillants et aucune agressivité particulière. Au contraire, les gens semblent heureux de voir un Occidental se promener parmi eux à ces heures-là.
-
-## Bali : le haut, le bas et les singes
-
-François poursuit vers **Bali** mais ne cherche pas particulièrement les stations balnéaires les plus touristiques. Il préfère gagner une petite ville dans les hauteurs de l’île.
-
-Il se souvient d’un phénomène linguistique qui l’avait intéressé : dans une île dominée par le relief volcanique, l’orientation peut se concevoir en termes de **haut** et de **bas** plutôt qu’avec nos repères habituels. Cette observation lui rappelle plus tard ses lectures de linguistique sur les langues qui encodent l’espace d’une manière très différente du français.
-
-Dans les hauteurs, les singes sont omniprésents. Au début ils sont adorables ; après quelques vols et tentatives de chapardage, ils deviennent nettement moins romantiques.
-
-## Kuta et les Australiens
-
-François descend également vers la côte touristique, probablement **Kuta**, très fréquentée par les Australiens pour qui Bali constitue une destination de vacances proche et bon marché.
-
-Il est frappé par leur capacité à boire de la bière en quantité industrielle.
-
-Une image lui reste : un Australien tellement ivre qu’il ne marche plus et **rampe littéralement dans la rue**, au milieu des bars. Personne autour de lui ne semble particulièrement surpris.
-
-## Le sud de Java avec un Australien
-
-Pour revenir vers Jakarta, François décide de ne pas reprendre l’itinéraire classique par le centre de Java. Il choisit la côte sud, beaucoup moins touristique.
-
-Il rencontre un Australien d’une cinquantaine d’années, récemment divorcé après environ vingt ans de mariage avec une Sud-Africaine. Ses enfants sont déjà grands. Lui aussi voyage pour changer d’air et tourner une page.
-
-Les deux hommes poursuivent ensemble pendant une semaine ou deux à travers le sud de Java, puis rejoignent Jakarta.
-
-L’Australien travaille dans le secteur pétrolier en Australie. Son prénom reste incertain dans la retranscription du souvenir et devra être vérifié.
-
-## Jakarta, hôtel chic et rencontre ambiguë
-
-À Jakarta, les deux voyageurs se retrouvent dans un hôtel d’un standing inhabituel pour François, du genre Hilton même si ce n’est probablement pas un Hilton.
-
-Ils rencontrent deux très jolies jeunes femmes. La situation devient rapidement ambiguë : elles semblent chercher des Occidentaux relativement fortunés. François ne les décrit pas exactement comme des prostituées, mais la frontière est mince.
-
-Le quiproquo devient évident lorsque les deux couples se dirigent vers les chambres et que les jeunes femmes découvrent que François et son compagnon australien **partagent la même chambre**.
-
-L’une des femmes s’appelle probablement **Cynthia**. François pense l’avoir recroisée quelques mois plus tard, mais cet épisode est précisément l’un de ceux qui lui font comprendre qu’il mélange peut-être plusieurs voyages en Indonésie.
-
-## Une chronologie qui se remet en place
-
-En racontant ces souvenirs, François commence par les associer au voyage effectué après la rédaction d’un livre, vers 1989. Puis les détails s’emboîtent autrement.
-
-Il se souvient bien avoir fait un voyage en Indonésie vers **1989**, mais celui-ci aurait été écourté parce que son éditeur ne l’avait pas payé à temps. En revanche, le long parcours raconté ici — Singapour, Sumatra, Java, Bali puis la remontée vers la Malaisie — lui paraît désormais appartenir au voyage de **1993**, avant son départ pour l’Afrique du Sud.
-
-Ce flou fait partie du matériau biographique : plusieurs voyages dans les mêmes pays, à quelques années d’intervalle, finissent naturellement par se superposer dans la mémoire.
+Pour retourner vers Jakarta, François choisit la côte sud de Java, moins touristique, en compagnie d’un Australien d’une cinquantaine d’années récemment divorcé. À Jakarta, dans un hôtel d’un standing inhabituel pour François, ils rencontrent deux jeunes femmes dont les intentions commerciales deviennent assez vite évidentes. L’une s’appelle probablement Cynthia ; cet épisode pourrait cependant appartenir à un autre voyage.
 
 ## Retour à Singapour, puis Tioman
 
 Après l’Indonésie, François revient à **Singapour** et repart presque aussitôt vers la côte est de la Malaisie pour passer environ une semaine sur **Tioman Island**.
 
-Le séjour est agréable. Il se promène sur l’île sans qu’un événement particulier lui soit resté en mémoire. Tioman lui paraît cependant moins paradisiaque que les îles de la côte ouest de la Malaisie, dont il garde surtout le souvenir d’eaux turquoise magnifiques.
+Le séjour est agréable mais lui paraît moins paradisiaque que les îles de la côte ouest de la Malaisie, dont il garde surtout le souvenir d’eaux turquoise magnifiques.
 
-### Voyager seul : ne jamais perdre ses papiers
+### Voyager seul : être toujours prêt à partir
 
-Tioman illustre en revanche une contrainte qui accompagne François pendant tous ses voyages en solitaire : il ne peut jamais complètement baisser la garde.
+Tioman illustre une contrainte qui accompagne François pendant tous ses voyages en solitaire : ses papiers, son argent et ses affaires essentielles restent sous sa responsabilité exclusive. Sur une plage, personne n’est là pour surveiller son sac. Il ne va donc pratiquement jamais se baigner en laissant ses affaires sans surveillance — ce qui ne constitue pas un grand sacrifice puisqu’il n’aime guère se baigner.
 
-Ses papiers, son argent et ses affaires essentielles sont sa responsabilité exclusive. Sur une plage, personne n’est là pour surveiller son sac pendant qu’il se baigne. Il évite donc de laisser ses affaires sans surveillance — au point de ne même pas aller tremper quelques instants les pieds dans l’eau. Cela ne représente d’ailleurs pas un immense sacrifice : il n’aime guère se baigner.
+Cette vigilance devient une véritable discipline. François **ne défait pratiquement jamais son sac**. Ses affaires restent organisées de façon à pouvoir partir dans la minute sans rien oublier.
 
-Cette vigilance devient une véritable discipline de voyage.
+Des décennies plus tard, cette habitude lui revient à l’esprit lorsque sa fille doit quitter précipitamment un logement au Guatemala et oublie quelques affaires dans l’urgence.
 
-François **ne défait pratiquement jamais son sac**. Ses affaires restent organisées de façon à pouvoir repartir immédiatement. En cas d’imprévu, il doit pouvoir prendre son sac et quitter les lieux en une minute, sans passer une demi-heure à rechercher un chargeur, un vêtement ou des papiers éparpillés dans la chambre.
+## Les informaticiens du casino et Kuala Lumpur
 
-Des décennies plus tard, il mesure à quel point cette habitude lui est restée en observant sa fille, contrainte de quitter précipitamment un logement au Guatemala et ayant dû, dans l’urgence, y oublier quelques affaires. Pour François, la comparaison fait immédiatement ressurgir cette règle acquise pendant ses années de voyage : **être toujours prêt à partir**.
+Au départ de Tioman, François fait connaissance sur le bateau avec **deux Australiens et une Malaisienne d’origine chinoise**, tous trois informaticiens dans un casino situé au nord de Kuala Lumpur. Il leur rendra simplement visite quelques semaines plus tard : une rencontre de passage, sans épisode particulier lié au casino.
 
-## Trois informaticiens rencontrés sur le bateau
+À **Kuala Lumpur**, François fait diverses rencontres, notamment celle d’un Américain passionné de lecture et d’écriture avec lequel il sympathise. Il rencontre également une jeune Malaisienne originaire de **Sabah**, au nord-est de Bornéo. Elle lui propose d’aller découvrir sa région, ce qui correspond justement à ses projets.
 
-Au départ de Tioman, François fait connaissance sur le bateau avec trois personnes : **deux Australiens et une Malaisienne d’origine chinoise**, qu’il trouve par ailleurs très jolie.
+### Le mystérieux appel de Brigitte
 
-Tous trois travaillent dans l’informatique pour un **casino situé au nord de Kuala Lumpur**.
+Quelques jours plus tard, à l’aéroport domestique de Kuala Lumpur, François achète une carte téléphonique et appelle chez sa mère en France — les téléphones portables ne font évidemment pas encore partie de la vie quotidienne du voyageur.
 
-La rencontre ne restera pas un simple échange entre voyageurs : quelques semaines plus tard, François aura l’occasion d’aller leur rendre visite sur leur lieu de travail.
+Il tombe sur son frère, vers six ou sept heures du matin en France. Celui-ci lui apprend qu’une certaine **Brigitte** a téléphoné et lui donne son numéro.
+
+La seule Brigitte à laquelle François pense est une femme connue à Cherbourg. Après sa conversation familiale, il achète une nouvelle carte et appelle le numéro. Une femme décroche : **ce n’est pas la voix de la Brigitte de Cherbourg**.
+
+L’énigme restera entière pendant plusieurs mois. François passera mentalement en revue les femmes rencontrées dans sa vie sans parvenir à identifier cette mystérieuse Brigitte. La réponse n’arrivera que beaucoup plus tard.
+
+> Repère biographique : le père de François est décédé en 1991. Cette période de sa vie n’a pas encore été racontée et devra faire l’objet d’un récit distinct.
+
+## Sarawak : Kuching et les longhouses
+
+François s’envole pour **Kuching**, dans l’État de Sarawak, à l’ouest de Bornéo. Il garde le souvenir d’une petite ville de province agréable, puis s’enfonce vers l’intérieur de cette immense île.
+
+Les détails géographiques lui échappent aujourd’hui, mais il se souvient d’un large fleuve constituant le principal axe de transport. De grosses vedettes rapides pleines de passagers relient les différents postes installés le long du cours d’eau.
+
+François s’arrête quelques jours dans une sorte d’avant-poste encore relativement équipé. Il traverse un jour le fleuve et marche environ une demi-heure sur l’autre rive. Il arrive alors dans un village de **longhouses** où la vie lui paraît beaucoup plus traditionnelle : habitants en pagne, enfants jouant nus, aucune langue commune permettant réellement de communiquer.
+
+La scène provoque surtout chez lui un profond malaise. Il a l’impression absurde de jouer à l’explorateur occidental venant observer un « peuple primitif », alors qu’en réalité il est simplement un étranger débarquant sans invitation dans le lieu de vie d’autres personnes.
+
+Il se sent, selon ses propres mots, **« clairement con »**, et surtout intrus. Faute de pouvoir réellement communiquer, il finit par rebrousser chemin et retourne à son hôtel.
+
+## La côte nord de Bornéo et Brunei
+
+François poursuit ensuite son voyage en remontant progressivement la côte nord de Bornéo, ville après ville, jusqu’à **Brunei**.
+
+Il ne reste qu’une nuit dans ce petit État dont l’atmosphère musulmane lui paraît sensiblement plus stricte qu’en Malaisie. Le soir, au restaurant, il commande machinalement une bière. Le serveur, embarrassé, lui explique que l’alcool n’est pas disponible. Petit moment de décalage culturel : François comprend immédiatement son erreur.
+
+## Sabah et le mont Kinabalu
+
+De retour en Malaisie, François gagne **Sabah**. Il y ressent une ambiance culturellement très différente et plus ouverte que celle qu’il vient de connaître à Brunei.
+
+Il retrouve la jeune Malaisienne rencontrée précédemment à Kuala Lumpur. Elle lui présente ses amis, ce qui lui permet de rencontrer davantage de monde et d’entrer un peu dans la vie locale.
+
+François entreprend ensuite l’ascension du **mont Kinabalu**. L’ascension est réputée accessible, mais elle s’avère éprouvante pour le citadin qu’il est. Tandis qu’il halète à chaque pas, il se fait plusieurs fois dépasser par des gens qui montent en courant, certains étant apparemment habitués à effectuer régulièrement l’ascension.
+
+Après une nuit au refuge ou camp d’altitude, réveil vers **trois heures du matin**. La dernière partie de l’ascension s’effectue dans l’obscurité complète afin d’atteindre le sommet pour le lever du soleil. On lui dit que, par temps exceptionnellement clair, il serait possible d’apercevoir les Philippines au loin.
+
+## L’homme qui n’était jamais entré en Malaisie
+
+Au moment de quitter Sabah pour retourner à Singapour, François découvre une petite anomalie administrative.
+
+En franchissant précédemment la frontière depuis Brunei, il avait omis le contrôle d’immigration malaisien. Celui-ci n’était apparemment pas situé dans le cheminement évident : il fallait volontairement aller faire enregistrer son entrée. François avait simplement suivi les autres voyageurs.
+
+À l’aéroport, l’immigration lui expose donc une logique bureaucratique irréprochable :
+
+**« Vous n’êtes pas entré en Malaisie, donc vous ne pouvez pas en sortir. »**
+
+La situation finit par s’arranger et François peut partir le lendemain pour Singapour. Pourquoi Singapour plutôt que Kuala Lumpur ? Peut-être simplement parce que le billet était moins cher ; il ne s’en souvient plus avec certitude.
+
+## Remontée vers la Thaïlande
+
+Depuis Singapour, François retourne encore une fois en Malaisie. Il rend visite aux connaissances rencontrées à Tioman, qui travaillent au casino au nord de Kuala Lumpur, puis remonte vers la Thaïlande en longeant notamment la **côte ouest malaisienne**, dont les eaux turquoise lui ont laissé un souvenir magnifique.
+
+En Thaïlande, il choisit de passer par l’arrière-pays. Aucun événement précis ne lui est resté, mais il apprécie justement ces régions parce qu’elles lui semblent plus authentiques et moins façonnées par le tourisme.
+
+## Bangkok et l’attente du visa vietnamien
+
+François arrive à **Bangkok**, ville qu’il aime malgré une circulation infernale. Lorsqu’il doit se déplacer vers le nord de la ville, il apprécie particulièrement les navettes fluviales, beaucoup plus agréables que les transports terrestres pris dans les embouteillages.
+
+Il demande son visa pour le Vietnam, mais doit attendre environ une semaine. Plutôt que de patienter à Bangkok, il repart barouder dans le **nord-est de la Thaïlande jusqu’au Mékong**. Là encore, aucun monument particulier ne domine son souvenir : c’est surtout l’impression d’une région plus authentique qui lui reste.
+
+Une fois le visa prêt, retour à Bangkok puis départ pour le Vietnam.
+
+## Vietnam : arrivée à Hô Chi Minh-Ville
+
+François arrive à **Hô Chi Minh-Ville**, l’ancienne Saïgon. Malgré son visa, présenté sur une feuille séparée — disposition qu’il associe dans son souvenir au contexte de l’embargo américain — il doit encore payer une somme qu’il se rappelle comme conséquente à l’arrivée.
+
+Il partage un véhicule avec un autre voyageur pour rejoindre la ville. En chemin, une odeur étrangement familière lui parvient. Il lui faut plusieurs minutes pour identifier quelque chose qui lui paraît totalement improbable ici : **l’odeur de croissants français**.
+
+Dans les rues, de petites roulottes vendent notamment des sandwichs préparés avec de petites baguettes, meilleures dans son souvenir que les mini-baguettes de self-service françaises, parfois simplement garnies de fromage fondu de type **La Vache qui rit**. Plus tard, à Hanoï, François se souvient avoir rencontré une autre marque française, **Grosjean**. Ce détail devra être vérifié mais l’amuse encore beaucoup.
+
+Autre habitude qui le surprend : au Vietnam, on lui sert volontiers la bière avec **des glaçons**.
+
+### Une besace pleine de dôngs
+
+Le système monétaire vietnamien lui laisse également des souvenirs pittoresques. Il se rappelle notamment de billets illustrés de **derricks** et d’une coexistence assez étonnante entre taux officiel et marché parallèle du change, jusque dans ou autour des banques.
+
+Dans son souvenir, un dollar vaut alors environ **2 000 dôngs** et la plus grosse coupure courante qu’il utilise est de **1 000 dôngs**. Ces chiffres devront être vérifiés historiquement.
+
+François change généralement 100 dollars à la fois et n’obtient évidemment pas uniquement les plus grosses coupures. Il se retrouve donc avec d’énormes liasses de billets. Plutôt que de tenter de les ranger dans un portefeuille, il les fourre simplement dans sa besace. Pour payer quelque chose, il plonge la main dedans et prélève les billets nécessaires.
+
+## Đà Nẵng et Huế
+
+Lorsqu’il quitte Hô Chi Minh-Ville, on lui conseille d’acheter **deux places dans le transport : une pour lui et une pour son sac**. Le conseil lui paraît excellent, particulièrement pour un voyageur qui tient à garder ses affaires sous contrôle.
+
+Première étape : **Đà Nẵng**. Un de ses compagnons de bistrot en France y avait passé son enfance et lui avait demandé d’aller voir la ville. François imagine qu’elle avait beaucoup changé depuis cette époque et regrette de ne disposer d’aucun appareil permettant de rapporter des photos à son ami.
+
+Puis vient **Huế**, où François reste quelques jours. Dans un petit restaurant populaire travaille une jeune Vietnamienne d’une beauté qui le frappe immédiatement. Elle est sourde-muette. Il ne se passe rien de particulier entre eux ; simplement, son visage et sa présence restent durablement gravés dans sa mémoire.
+
+## Hanoï et le projet de rejoindre la Chine
+
+François pense être ensuite monté directement à **Hanoï**. Son objectif est de rejoindre la Chine par le nord du Vietnam, en franchissant la frontière terrestre.
+
+Un problème se présente : son visa indique qu’il doit **quitter le Vietnam par voie aérienne**. Il a déjà dû faire prolonger son visa, mais décide malgré tout de tenter sa chance à la frontière plutôt que de modifier encore les formalités à Hanoï.
+
+Il prend le train vers le nord et arrive vers six heures du matin. Un bus le conduit ensuite au poste-frontière.
+
+## La frontière vietnamienne : trente dollars et trois poches
+
+Face à lui, l’officier d’immigration est un très jeune homme, peut-être une vingtaine d’années. À cette heure matinale, le poste est presque désert.
+
+L’officier examine le visa et tente d’expliquer dans un anglais approximatif que François n’a pas le droit de sortir du pays par cette frontière.
+
+François comprend parfaitement le problème, mais décide de **jouer celui qui ne comprend pas**. Il insiste gentiment : son interlocuteur est un officier, il doit certainement exister une solution.
+
+Le jeune homme disparaît dans le bureau voisin. Quinze minutes plus tard, il revient : une solution est possible, mais elle coûtera **beaucoup d’argent**.
+
+Exactement la réponse que François espérait.
+
+— Combien ?
+
+Nouvelle disparition dans le bureau. Encore un quart d’heure. Verdict : **30 dollars**.
+
+François calcule immédiatement que cela lui coûterait davantage de retourner à Hanoï et de faire modifier officiellement son visa. Marché conclu.
+
+Il tend cependant un billet de **100 dollars**. Nouveau problème : personne au poste n’a la monnaie. François finit par trouver d’autres backpackers qui lui prêtent les 30 dollars nécessaires.
+
+Il remet trois billets à l’officier et assiste alors à une ventilation du bakchich d’une transparence presque admirable : **un billet dans la poche de l’officier, un dans le dossier pour l’administratif, et un gardé à la main pour son supérieur**.
+
+François résume aujourd’hui la scène par une boutade : même le bakchich semblait soigneusement réparti.
+
+## La vaccination à un dollar
+
+Trois mètres plus loin l’attend le **contrôle sanitaire**.
+
+Un homme en blouse blanche lui réclame son carnet de vaccination. Dans le souvenir de François, la scène est tellement caricaturale qu’il lui ajoute presque un stéthoscope — détail dont il reconnaît volontiers qu’il est peut-être une reconstruction de sa mémoire.
+
+François n’a pas de carnet.
+
+— **Un dollar.**
+
+Il paie. L’homme prend un carnet jaune et tamponne généreusement les pages. Pour l’administration, François vient apparemment d’acquérir en quelques secondes une immunité remarquable contre toutes sortes de maladies, sans qu’aucune seringue n’ait eu à intervenir.
+
+## Psychologie inversée et linge sale
+
+Reste le véritable contrôle des bagages. Cette fois, François est inquiet : il transporte un **ordinateur portable** qu’il n’avait pas déclaré à son entrée au Vietnam. Une découverte ne serait probablement pas catastrophique, mais elle gâcherait une sortie de frontière jusque-là remarquablement bien négociée.
+
+Son sac à dos possède une fermeture éclair périphérique permettant de l’ouvrir comme une valise. François connaît précisément l’endroit où se trouve l’ordinateur.
+
+Il tente alors une petite expérience de **psychologie inversée** : en ouvrant le sac, il dirige ostensiblement ses mains vers la zone où se trouve réellement le portable, dans l’espoir que la jeune douanière interprète son geste comme une diversion destinée à attirer son attention loin de ce qu’il voudrait cacher.
+
+Bingo.
+
+Elle l’arrête et fouille précisément **de l’autre côté**.
+
+Elle y trouve des **sous-vêtements sales**.
+
+La fouille perd rapidement de son enthousiasme. L’ordinateur reste là où il est et François franchit le contrôle sans autre difficulté.
+
+## Le pont vers la Chine
+
+Cette fois, la frontière vietnamienne est réellement derrière lui. François traverse le pont, rembourse les backpackers qui lui avaient prêté les 30 dollars, puis se rend à l’office de tourisme situé juste à côté.
+
+Il est environ **neuf heures du matin**, précisément l’heure d’ouverture.
+
+Il y rencontre une jeune Chinoise qu’il trouve jolie, extrêmement serviable et parlant très bien anglais. Elle l’accompagne prendre des **nouilles dans la rue pour le petit déjeuner**, puis l’aide à acheter son billet de train pour **Kunming**.
+
+Au cours de leur conversation, elle lui confie quelque chose de très simple qui reste dans sa mémoire : **son rêve est de voir la mer**.
+
+Après des mois passés à circuler entre îles, ferries et côtes, François mesure le contraste entre son propre rapport au voyage et celui de cette jeune femme pour qui la mer reste encore un endroit rêvé.
+
+François est désormais en Chine. Et, selon ses propres mots, **il est réconcilié avec la Chine**.
+
+La suite du voyage représente encore environ **six semaines en Chine** et reste à raconter.
 
 ## À vérifier
 
 - Date exacte du voyage : 1993 paraît désormais nettement plus probable pour les épisodes racontés ici.
 - Voyage distinct en Indonésie vers 1989, apparemment écourté faute de paiement de l’éditeur.
-- Nom du lac de Sumatra dont François fait le tour à vélo, distance estimée à environ 70 km.
-- Site exact visité près de Medan pour les orangs-outans.
-- Identité et nationalité exacte du voyageur blond surnommé « Rambo ».
-- Sites historiques visités autour de Yogyakarta et excursion exacte du lever de soleil.
-- Ville des hauteurs de Bali où François séjourne parmi les singes.
-- Nom de l’Australien rencontré dans le sud de Java et nom de son employeur dans le secteur pétrolier.
-- Épisode de Cynthia : déterminer à quel voyage il appartient.
-- Itinéraire exact entre Singapour et Tioman.
-- Îles ou lieux précis de la côte ouest malaisienne auxquels François compare Tioman.
-- Noms des deux Australiens et de la Malaisienne d’origine chinoise rencontrés sur le bateau.
-- Nom et localisation exacte du casino au nord de Kuala Lumpur où ils travaillent.
+- Nom du lac de Sumatra et site exact des orangs-outans.
+- Identité du voyageur surnommé « Rambo ».
+- Ville des hauteurs de Bali et certains épisodes susceptibles d’appartenir à un autre voyage.
+- Nom de l’Australien rencontré dans le sud de Java et épisode de Cynthia.
+- Noms des trois informaticiens rencontrés à Tioman et localisation exacte de leur casino.
+- Identité de la mystérieuse Brigitte : résolution à raconter ultérieurement.
+- Itinéraire fluvial exact au Sarawak et nom de l’avant-poste près du village de longhouses.
+- Frontière exacte Brunei–Malaisie où l’entrée n’a pas été enregistrée.
+- Détails précis de l’ascension du Kinabalu et visibilité éventuelle des Philippines.
+- Itinéraire exact sur la côte ouest de Malaisie et dans le nord-est thaïlandais.
+- Présentation du visa vietnamien sur feuille séparée et lien exact avec l’embargo américain.
+- Taux de change, coupures vietnamiennes et billets ornés de derricks en 1993.
+- Marque Grosjean observée à Hanoï.
+- Poste-frontière exact entre le Vietnam et la Chine et détails réglementaires du visa.
+- Suite du voyage : environ six semaines en Chine.
