@@ -215,6 +215,62 @@ François est désormais en Chine. Et, selon ses propres mots, **il est réconci
 
 La suite du voyage représente encore environ **six semaines en Chine** et reste à raconter.
 
+
+## Chine : souvenirs décousus
+
+François arrive à **Kunming** le matin et s'installe dans un hôtel assez collectif, avec de nombreuses chambres et les salles d'eau à l'étage, qui lui donne une impression très « Chine communiste ». Les souvenirs de ces six semaines en Chine sont nombreux mais leur ordre est parfois incertain.
+
+Lors d'un passage à Kunming, probablement le second, il boit une bière dans un bar avec un Irlandais rencontré en route. Une très belle Chinoise passe devant eux dans une longue robe de soie, puis lance un gros crachat sur le trottoir : le contraste rompt instantanément le charme. À peu près à la même période, les deux hommes voient passer une **Ferrari rouge**, apparition particulièrement improbable dans la Chine qu'ils parcourent.
+
+Un autre souvenir, situé lors de son séjour au Tibet, est celui d'un couple de punks aux crêtes de cheveux bleus et à l'accoutrement spectaculaire, dont François imagine qu'ils ont dû surprendre plus d'un Chinois.
+
+## Dali
+
+François part ensuite pour **Dali**, où il pense rester environ une semaine. Il établit son « QG » dans un petit restaurant tenu par un Américain marié à une Chinoise. Celui-ci lui raconte que sa femme a passé quelques jours en prison parce qu'elle avait épousé un Américain ; François n'a évidemment aucun moyen de vérifier cette histoire.
+
+Dans ce restaurant travaille une serveuse qu'il aime taquiner. François ne parle pas réellement chinois mais en possède quelques notions. Le nom de la jeune femme, prononcé avec le mauvais ton, signifie apparemment quelque chose de beaucoup moins agréable, possibilité linguistique dont il abuse assez puérilement pour la taquiner.
+
+## Route vers le nord
+
+François quitte Dali vers le nord, en direction de **Chengdu**, par de petites routes de montagne difficiles et sinueuses. Il s'arrête dans un village qu'il apprécie et prend ses habitudes dans un petit restaurant. La patronne, à peu près de son âge, lui paraît assez occidentalisée ; il suppose qu'elle appartient à l'une des minorités de la région. Il sympathise avec elle.
+
+Il poursuit ensuite vers le nord avec environ une demi-douzaine de backpackers. Certaines petites villes de l'itinéraire ne sont alors pas ouvertes aux étrangers, ce que François interprète moins comme une volonté de cacher quelque chose que comme l'absence d'infrastructures habilitées à recevoir et enregistrer des étrangers.
+
+Dans un village perché où le groupe doit attendre deux jours un autre bus, la police les convoque et contrôle leurs passeports. Parmi les voyageurs se trouve un couple d'Israéliens. Le policier paraît particulièrement surpris en découvrant leurs passeports, dont les pages s'ouvrent dans l'autre sens.
+
+Plutôt que de poursuivre vers le nord, François décide finalement de faire demi-tour et de retourner dans le village où vit la patronne du restaurant. Peut-être est-ce à cause d'elle ; aujourd'hui il n'en sait plus rien. Il la revoit brièvement puis repart vers Dali.
+
+Le hasard les fait se rencontrer **à nouveau à Dali**. Elle l'entraîne alors dans les ruelles chinoises et lui fait découvrir la cuisine de rue locale. François se souvient notamment d'avoir essayé de saisir avec des baguettes ce qui lui semblait être de la cervelle ou des cubes de sang coagulé, avant de les tremper dans des marmites de bouillon. La nature exacte de ces aliments reste à vérifier.
+
+## Lijiang, Tiger Leaping Gorge et les voyageurs
+
+François continue à barouder dans le **Yunnan**, notamment vers **Lijiang** ou les **Tiger Leaping Gorge**. L'attribution exacte de certaines scènes à l'un ou l'autre endroit reste incertaine.
+
+Dans un bus, probablement en direction de Lijiang, se trouve un groupe de touristes français que François trouve particulièrement pénible, notamment ceux installés devant lui. Il décide de ne surtout pas révéler qu'il est lui-même français et les laisse le prendre pour un non-francophone.
+
+La responsable du groupe, une Française de son âge, ne découvre la vérité que plus tard, lorsqu'elle passe devant François au moment où celui-ci discute en français avec d'autres voyageurs. François n'avait simplement aucune envie d'être associé à son groupe.
+
+Il passe également quelque temps avec plusieurs voyageurs. Parmi eux, un Suisse marié à une Thaïlandaise prénommée **Sam**, qui lui raconte la complexité des relations avec sa belle-famille et les différences culturelles.
+
+Il y a aussi un Français à vélo, personnage particulièrement singulier que le groupe retrouve à plusieurs étapes. Il semble parler chinois tout en essayant de le dissimuler. Il raconte avoir également voyagé par voie fluviale, parfois vêtu d'une combinaison de plongée, et même avoir fait de la prison après avoir franchi une frontière par erreur. Il serait en Chine depuis longtemps, peut-être même en situation irrégulière. François n'a jamais su quelle part de ces récits était vraie, mais le personnage était pour le moins divertissant.
+
+## Vers Canton et Taïwan
+
+On parle à François de **Taïwan** comme d'un endroit où il pourrait apprendre le chinois. Il décide donc de rejoindre **Canton (Guangzhou)** depuis Kunming. Il pense avoir pris l'avion, mais le souvenir du trajet est incertain et il n'exclut pas le train.
+
+À Canton, il rencontre un couple se présentant comme québécois et marié. François a l'impression que la femme s'intéresse à lui et elle lui plaît également, mais sa règle est simple : puisqu'elle se présente comme mariée, il ne tente rien. L'absence apparente de jalousie de son compagnon lui fait soupçonner que le mariage est peut-être un alibi, sans qu'il ait jamais pu le vérifier.
+
+Cette situation lui rappelle une rencontre quelques semaines auparavant avec une Française se présentant elle aussi comme mariée et qui semblait avoir des vues sur lui. Elle était partie se promener seule avec François sans que son « mari » manifeste la moindre jalousie. Là encore, François n'a jamais su quelle était réellement la situation du couple.
+
+## Hong Kong : strip-tease au détecteur de métaux
+
+À **Hong Kong**, François passe un contrôle au détecteur de métaux. L'appareil ne cesse de biper sans raison identifiable.
+
+À force de chercher ce qui provoque l'alarme, François finit par retirer sa chemise. Le contrôle se déroule en plus sur une estrade, bien visible des personnes alentour. Lui s'en moque, mais la scène commence à ressembler à un strip-tease improvisé.
+
+La jeune femme chargée du contrôle finit par comprendre que le problème vient tout simplement de son détecteur, qui fonctionne mal.
+
+
 ## À vérifier
 
 - Date exacte du voyage : 1993 paraît désormais nettement plus probable pour les épisodes racontés ici.
