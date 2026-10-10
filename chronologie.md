@@ -89,9 +89,21 @@
 - Collaboration comme pigiste avec **ST Magazine**, en tant que développeur proche de la rédaction.
 - **Twist** est distribué notamment par **HiSoft** au Royaume-Uni et par Upgrade Éditions en France.
 
+
+## 1991–1993 — Deuil, LMS, voyages et départ pour l'Afrique du Sud
+
+- **Samedi 6 avril 1991** — François découvre son père incapable de parler ; docteur Babet, ambulance et hospitalisation.
+- **Dans la nuit du 6 au 7 avril 1991, après minuit** — Décès de son père, sa mère lui tenant la main. [Récit](famille/1991-deces-du-pere.md).
+- **1991–fin 1992 environ** — Embauche chez **LMS (Liaison Micro Systems)** par Nicolas Fodor, ancien collègue du milieu ZZ/Davy. Logiciel immobilier professionnel, architecture Unix/Oracle/Macintosh en client-serveur, découverte appréciée du SQL.
+- **Pendant les congés chez LMS** — Court voyage au [Sri Lanka](voyages/1991-1992-sri-lanka.md).
+- **Fin 1992 / début 1993, à confirmer** — Fermeture de LMS puis mission de transmission de connaissances d'environ un mois chez **Jean Thouard**, rémunérée très favorablement. [Récit professionnel](informatique/1991-1992-lms-jean-thouard.md).
+- **1993** — Grand périple en Asie du Sud-Est, Vietnam et Chine. Après six semaines en Chine, séjour d'environ deux mois à **Taipei** pour étudier le mandarin.
+- **Septembre 1993 environ** — Fax « Happy birthday François » à la guesthouse et résolution de l'énigme de Brigitte, connaissance du club Atari de Robert.
+- **Fin du voyage de 1993** — Philippines (une semaine), Jakarta (retrouvailles avec Cynthia, hébergement chez Éric Piazzon), retour à Roissy. Florent y propose à François un emploi en Afrique du Sud ; départ pour Johannesburg environ deux semaines après. [Dernière partie du voyage](voyages/1993-taiwan-philippines-retour.md).
+- **À raconter** — Un court voyage à Srinagar vers la fin des années 1980 ; l'autre voyage court de la période 1991–1993 reste à identifier.
+
 ## À documenter ensuite
 
-- Suite du séjour à Rio et retour à la médecine.
 - Afrique du Sud.
 - Israël.
 - Voyages en Asie, Afrique et Amérique latine.
