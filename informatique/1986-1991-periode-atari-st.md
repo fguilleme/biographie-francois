@@ -22,7 +22,7 @@ Son père est en contact avec **Informatique et Nature**, une boutique de Cavail
 
 Au début de 1987 — ou peut-être dès 1986 — son père achète un **Atari ST**. François le squatte évidemment et écrit **SuperFormat**, un outil de formatage plus souple que le formatage classique du ST.
 
-Par l'intermédiaire d'un club informatique Atari ST fréquenté avec son père, il rencontre **Robert** et **Brigitte**. Brigitte deviendra son épouse des années plus tard ; cette histoire sera racontée séparément.
+Par l'intermédiaire d'un club informatique Atari ST fréquenté avec son père, il rencontre **Robert** et **Brigitte**. Brigitte deviendra son épouse des années plus tard ; cette histoire sera racontée séparément. En 1993, un mystérieux appel de Brigitte à la famille de François sera élucidé pendant son séjour à Taïwan.
 
 François fréquente aussi **Hebdogiciel**. Il y passe parfois le mardi, jour de bouclage du numéro du jeudi. Le rédacteur en chef adjoint, **Michel Desangles**, deviendra plus tard son rédacteur en chef à **ST Magazine**.
 
@@ -32,7 +32,7 @@ François fréquente aussi **Hebdogiciel**. Il y passe parfois le mardi, jour de
 
 Le logiciel sort un dimanche soir. Robert fournit à François une copie du programme, mais pas la disquette originale. Il n'ose pas le lancer, ayant entendu dire que la protection pourrait endommager l'ordinateur.
 
-François examine le programme et neutralise la protection en modifiant un seul bit.
+François examine le programme et neutralise la protection en modifiant un nombre infime de bits : **un bit** dans un premier souvenir, **deux bits** dans son récit d'octobre 2026 (à confirmer).
 
 Le mardi, il appelle Michel Desangles à Hebdogiciel :
 
