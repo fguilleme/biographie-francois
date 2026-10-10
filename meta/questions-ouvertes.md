@@ -125,3 +125,15 @@ Le voyage est désormais daté de fin décembre 1984 à fin mai 1985, avec retou
 - Retrouver l'année exacte.
 - Retrouver le nom du prêtre.
 - Déterminer si Coco est bien allé en Belgique ou a été récupéré en France.
+
+## Période 1991–1993 — Récits d'octobre 2026
+
+- Confirmer les dates de LMS, entreprise de Nicolas Fodor : **Liaison Micro Systems**.
+- Retrouver le nom complet de la société **ZZ** liée à Davy (ancienne attribution « ZZ Technologie » non fiable).
+- Dates exactes du séjour au Sri Lanka pendant les congés payés de LMS.
+- Date du mois de transfert de connaissances chez Jean Thouard, et rôle précis de Gilles Piazzon.
+- Confirmer calendrier des jours fériés liés à Confucius et école de chinois de Taipei en septembre 1993.
+- Différence de souvenir : un ou deux bits modifiés pour Emulcom.
+- Compléter les deux voyages courts entre les grandes périodes, dont **Srinagar** vers la fin des années 1980.
+- Compléter les anecdotes de Taïwan, des Philippines et du séjour chez Éric Piazzon à Jakarta.
+- Vérifier la date du retour en France, puis du départ à Johannesburg.
