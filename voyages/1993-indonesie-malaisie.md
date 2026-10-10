@@ -271,6 +271,12 @@ Cette situation lui rappelle une rencontre quelques semaines auparavant avec une
 La jeune femme chargée du contrôle finit par comprendre que le problème vient tout simplement de son détecteur, qui fonctionne mal.
 
 
+## Épilogue : Taïwan et retour
+
+Après Hong Kong, François séjourne environ deux mois à Taipei pour apprendre le chinois, puis passe par les Philippines et Jakarta. À Roissy, Florent lui propose un travail en Afrique du Sud, où il part deux semaines plus tard.
+
+Voir [la fin du voyage de 1993](1993-taiwan-philippines-retour.md).
+
 ## À vérifier
 
 - Date exacte du voyage : 1993 paraît désormais nettement plus probable pour les épisodes racontés ici.
