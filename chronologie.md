@@ -90,6 +90,13 @@
 - **Twist** est distribué notamment par **HiSoft** au Royaume-Uni et par Upgrade Éditions en France.
 
 
+## Vers 1989–1990 — Portfolio, Cachemire, musique et Indonésie
+
+- **Vers 1989–1990, date à confirmer** — Projet de **BASIC pour Atari Portfolio** avec Éric Cabedoce (liaison Atari Corporation) et Thierry Sauvageot (documentation). François réalise un prototype en Turbo Pascal sur Portfolio.
+- **Environ six mois avant le voyage californien, selon son souvenir** — Trois semaines à **Srinagar au Cachemire** pour travailler sur le BASIC : route à travers le Pendjab, houseboat, pharmacies en grève, pilote canadien d'origine polonaise et mariage entre familles du lac. [Récit](voyages/vers-1989-1990-cachemire-srinagar-portfolio.md).
+- **Vers 1990** — Projet non abouti de **séquenceur multipiste avec Jean-Louis Valero** ; excellent souvenir de cette rencontre. [Récit](informatique/vers-1990-sequenceur-jean-louis-valero.md).
+- **Vers 1990, très incertain** — Autre voyage en **Indonésie**, après un travail d'écriture pour les éditions Weka ; souvenirs difficiles à distinguer des autres voyages indonésiens.
+
 ## 1991–1993 — Deuil, LMS, voyages et départ pour l'Afrique du Sud
 
 - **Samedi 6 avril 1991** — François découvre son père incapable de parler ; docteur Babet, ambulance et hospitalisation.
@@ -100,7 +107,7 @@
 - **1993** — Grand périple en Asie du Sud-Est, Vietnam et Chine. Après six semaines en Chine, séjour d'environ deux mois à **Taipei** pour étudier le mandarin.
 - **Septembre 1993 environ** — Fax « Happy birthday François » à la guesthouse et résolution de l'énigme de Brigitte, connaissance du club Atari de Robert.
 - **Fin du voyage de 1993** — Philippines (une semaine), Jakarta (retrouvailles avec Cynthia, hébergement chez Éric Piazzon), retour à Roissy. Florent y propose à François un emploi en Afrique du Sud ; départ pour Johannesburg environ deux semaines après. [Dernière partie du voyage](voyages/1993-taiwan-philippines-retour.md).
-- **À raconter** — Un court voyage à Srinagar vers la fin des années 1980 ; l'autre voyage court de la période 1991–1993 reste à identifier.
+- **À compléter** — Souvenirs du voyage à Srinagar, désormais amorcé ; autres courts voyages et leurs dates exactes à clarifier.
 
 ## À documenter ensuite
 
