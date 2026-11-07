@@ -1,76 +1,55 @@
 # Biographie de François Guillemé
 
-Ce dépôt rassemble les souvenirs, le parcours informatique, les voyages et les documents d’archives de François Guillemé.
+**Dernière mise à jour des récits : 7 novembre 2026.** Ce dépôt rassemble les souvenirs de François, ses voyages, sa famille et son parcours d'informaticien, de l'assembleur aux systèmes modernes.
 
-Le projet distingue trois types de contenu :
+Il s'agit d'une **biographie en construction** : les souvenirs personnels sont distingués des faits vérifiés, et les noms ou dates incertains restent signalés.
 
-- **Souvenir personnel** : récit fondé sur la mémoire de François ;
-- **Fait vérifié** : information recoupée par une source extérieure ;
-- **À confirmer** : date, nom ou détail encore incertain.
+## Lire la biographie
 
-## Commencer ici
+- **[Parcours de lecture et index des chapitres](meta/index-recits.md)** — le point d'entrée recommandé.
+- [Chronologie générale](chronologie.md) — repères de 1972 à 1993 et pistes pour la suite.
+- [Dernière édition PDF](build/book/Biographie-Francois-latest.pdf) — édition générée automatiquement.
+- [Dernier corpus Notebook/RAG](build/notebook/notebook-biographie-francois-latest.zip) — textes et documents regroupés.
 
-- [Chronologie générale](chronologie.md)
-- [Structure canonique du dépôt](meta/structure-depot.md)
-- [Index des personnes](personnes.md)
-- [Registre des sources](sources.md)
-- [Questions ouvertes](meta/questions-ouvertes.md)
-- [Dernière édition PDF](build/book/Biographie-Francois-latest.pdf)
-- [Dernier corpus Notebook/RAG](build/notebook/notebook-biographie-francois-latest.zip)
+## Les dernières périodes racontées
 
-## Organisation
+| Période | Récits |
+| --- | --- |
+| 1986–1991 | [Atari ST, ST Magazine, COMDEX, NeXT et Steve Jobs](informatique/1986-1991-periode-atari-st.md) |
+| Vers 1989–1990 | [Cachemire : BASIC du Portfolio sur une péniche à Srinagar](voyages/vers-1989-1990-cachemire-srinagar-portfolio.md) |
+| Vers 1990 | [Séquenceur multipiste avec Jean-Louis Valero](informatique/vers-1990-sequenceur-jean-louis-valero.md) |
+| 1991 | [Décès du père de François](famille/1991-deces-du-pere.md) |
+| 1991–1992 | [LMS, Unix/Oracle/Macintosh et Jean Thouard](informatique/1991-1992-lms-jean-thouard.md) |
+| 1991–1992 | [Sri Lanka](voyages/1991-1992-sri-lanka.md) |
+| 1993 | [Indonésie, Malaisie, Bornéo, Thaïlande, Vietnam et Chine](voyages/1993-indonesie-malaisie.md) |
+| 1993 | [Taïwan, Philippines, Jakarta et retour à Roissy](voyages/1993-taiwan-philippines-retour.md) |
 
-### Récits destinés au livre
+Autres souvenirs informatiques récemment racontés : [le pilote d'imprimante couleur développé à distance](informatique/1980s-driver-imprimante-couleur-a-distance.md), [l'erreur Z80 repérée dans un train](informatique/1980s-erreur-assembleur-z80-dans-le-train.md) et [le disque dur graissé](informatique/1980s-jacques-disque-dur-graisse.md).
 
-- `famille/`
-- `scolarite/`
-- `formation/`
-- `militaire/`
-- `professionnel/`
-- `sante/`
-- `informatique/`
-- `voyages/`
-- `souvenirs/`
+## Où trouver quoi ?
 
-### Documentation et sources
+| Répertoire | Fonction |
+| --- | --- |
+| `famille/`, `scolarite/`, `formation/`, `militaire/`, `professionnel/`, `sante/`, `informatique/`, `voyages/` | **Récits biographiques** classés par sujet |
+| `connaissances/` | Fiches de personnes, lieux et organisations |
+| `meta/` | Index, règles éditoriales, chronologies de référence, questions ouvertes |
+| `raw conversations/` | Archives textuelles des séances récentes ; **ne pas modifier les originaux** |
+| `bundles/` | Exports historiques et paquets de travail, conservés pour traçabilité |
+| `archives/` | Documents primaires, magazines, scans et autres pièces |
+| `inbox/` | Souvenirs à compléter et notes de collecte |
+| `journal/` | Notes de travail |
+| `tools/`, `.github/workflows/` | Génération et publication |
+| `build/` | PDF, ZIP et rapports **générés automatiquement** |
 
-- `connaissances/` — fiches sur les personnes, organisations et lieux ;
-- `archives/` — magazines, photos, logiciels et documents primaires ;
-- `bundles/` — paquets de séance et transcriptions historiques ;
-- `inbox/` — éléments encore à classer ;
-- `journal/` — comptes rendus et notes de travail ;
-- `meta/` — règles éditoriales et questions ouvertes.
+Voir la [structure canonique](meta/structure-depot.md) et l'[inventaire de rangement](meta/inventaire-rangement-2026-11.md).
 
-### Publication automatique
+## Sources, précautions et travail en cours
 
-- `tools/publish.py` — générateur du livre et du corpus ;
-- `.github/workflows/publish.yml` — publication automatique ;
-- `build/book/` — éditions PDF ;
-- `build/notebook/` — corpus Notebook/RAG ;
-- `build/reports/` — rapports de publication.
+- [Personnes](personnes.md) · [Sources](sources.md) · [Questions ouvertes](meta/questions-ouvertes.md) · [Questions informatiques](meta/questions-ouvertes-informatique.md).
+- Les corrections de François priment sur les formulations antérieures.
+- Une interprétation ou un souvenir oral ne devient pas un fait vérifié sans recoupement.
+- Les archives brutes restent intactes ; les récits peuvent être révisés.
+- Les doublons historiques dans `bundles/` et les anciens index sont **conservés**, plutôt que supprimés sans vérification.
+- Les fichiers de `build/` sont versionnés pour rendre les éditions immédiatement disponibles.
 
-Le dépôt Git est la source de vérité. Les fichiers de `build/` sont des artefacts générés et immédiatement téléchargeables.
-
-## Règles de classement
-
-- Une transcription vocale ambiguë n'est jamais transformée silencieusement en certitude.
-- Les corrections explicites de François priment sur les premières formulations.
-- Chaque dossier distingue autant que possible le souvenir personnel, l'interprétation et le fait vérifié extérieurement.
-- Les noms, dates et termes techniques incertains sont centralisés dans les questions ouvertes.
-- Les archives primaires sont conservées sans réécriture.
-- Les nouveaux fichiers évitent les espaces et utilisent de préférence des noms en minuscules séparés par des tirets.
-
-Ce dépôt est un travail en cours. Les textes seront corrigés et enrichis au fur et à mesure des souvenirs et des recherches documentaires.
-
-## Ajouts 1983–1984
-
-- [Retour en région parisienne et formation informatique](professionnel/1983-retour-region-parisienne-formation-informatique.md)
-- [CBS et le Coleco Adam](professionnel/1984-cbs-coleco-adam.md)
-- [Stage et CDI chez LINCS](professionnel/1984-lincs.md)
-- [Accident de la Scirocco](sante/1984-accident-scirocco.md)
-- [Voyage aux États-Unis et au Mexique](voyages/1984-etats-unis-mexique.md)
-- [Guatemala, lac Atitlán et remontée vers les États-Unis](voyages/1984-guatemala-remontee-etats-unis.md)
-- [Sylvette](connaissances/personnes/sylvette.md)
-- [San Pedro La Laguna](connaissances/lieux/san-pedro-la-laguna.md)
-- [Transcription de la séance du 14 juillet 2026](bundles/archive/sessions/2026/2026-07-14-transcript.md)
-- [Transcription de la séance du 15 juillet 2026](bundles/archive/sessions/2026/2026-07-15-transcript.md)
+**Prochaine période à approfondir :** le décès du père de François et les années LMS, déjà amorcés, puis l'Afrique du Sud.
