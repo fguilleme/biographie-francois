@@ -12,4 +12,4 @@ La période Atari ST de François s'étend principalement de 1986 à 1990. Il d�
 
 ## Limite importante
 
-François a collaboré avec ZZ Technologie, mais a explicitement précisé ne pas avoir participé à **ZZ Rough**.
+François a collaboré avec une société dont le nom commençait par **ZZ**, mais dont la dénomination exacte reste à confirmer (les appellations « ZZ Technologie » et « ZZ Human » ont été évoquées sans certitude). Il a explicitement précisé ne pas avoir participé à **ZZ Rough**.
