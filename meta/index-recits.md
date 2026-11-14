@@ -4,6 +4,8 @@ Ce document oriente vers les **récits principaux**. Les fichiers courts de comp
 
 ## Enfance, études et premières expériences (1972–1984)
 
+- [Colonies à Primel-Trégastel et Roscoff, camp dans les Vosges et Rome](../famille/1968-1977-colonies-et-camps.md)
+
 - [Scolarité jusqu'en 1976](../scolarite/1972-1976-parcours-scolaire.md)
 - [Terminale et baccalauréat](../scolarite/1978-1979-terminale-baccalaureat.md)
 - [Maths sup et maths spé](../scolarite/1979-1981-maths-sup-maths-spe.md)
