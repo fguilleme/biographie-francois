@@ -1,6 +1,6 @@
 # Publication du 2026-11-14
 
-- Commit source : `006fbbf5732dac7a92de56ad3a6dbf14de1fa472`
+- Commit source : `01e8b08876f284e99a2cf73b0aa7129e9e86794b`
 - Fichiers narratifs intégrés au livre : 61
 - PDF : `build/book/Biographie-Francois-v2026-11-14.pdf`
 - Corpus Notebook/RAG : `build/notebook/notebook-biographie-francois-2026-11-14.zip`
