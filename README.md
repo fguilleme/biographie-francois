@@ -1,6 +1,6 @@
 # Biographie de François Guillemé
 
-**Dernière mise à jour des récits : 7 novembre 2026.** Ce dépôt rassemble les souvenirs de François, ses voyages, sa famille et son parcours d'informaticien, de l'assembleur aux systèmes modernes.
+**Dernière mise à jour des récits : 14 novembre 2026.** Ce dépôt rassemble les souvenirs de François, ses voyages, sa famille et son parcours d'informaticien, de l'assembleur aux systèmes modernes.
 
 Il s'agit d'une **biographie en construction** : les souvenirs personnels sont distingués des faits vérifiés, et les noms ou dates incertains restent signalés.
 
@@ -10,6 +10,10 @@ Il s'agit d'une **biographie en construction** : les souvenirs personnels sont d
 - [Chronologie générale](chronologie.md) — repères de 1972 à 1993 et pistes pour la suite.
 - [Dernière édition PDF](build/book/Biographie-Francois-latest.pdf) — édition générée automatiquement.
 - [Dernier corpus Notebook/RAG](build/notebook/notebook-biographie-francois-latest.zip) — textes et documents regroupés.
+
+## Derniers souvenirs ajoutés
+
+- [Colonies de vacances à Primel-Trégastel et Roscoff, camp dans les Vosges, Rome et Don Bosco](famille/1968-1977-colonies-et-camps.md) — enfance et adolescence, racontées le 14 novembre 2026.
 
 ## Les dernières périodes racontées
 
